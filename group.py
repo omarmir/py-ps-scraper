@@ -1,6 +1,6 @@
 class RateGroup:
-    def __init__(self, grpLvl, group, level, rateAgreements):
-        self.grpLvl = grpLvl
+    def __init__(self, group, level, rateAgreements):
+        self.grpLvl = group + '-' + level
         self.group = group
         self.level = level
         self.rateAgreements = rateAgreements
