@@ -1,0 +1,1834 @@
+[
+  {
+    "grpLvl": "RO-0",
+    "group": "RO",
+    "level": "0",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              31059
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              31682
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              32308
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              32909
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              33513
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              34116
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              32312
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              32960
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              33611
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              34237
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              34865
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              35492
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              33120
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              33784
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              34451
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              35093
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              35737
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              36379
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              33866
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              34546
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              35228
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              35884
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              36543
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              37200
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              38687
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              34543
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              35237
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              35933
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              36602
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              37274
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              37944
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              39461
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Radio Operations",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ro.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "RO-04 Instructor",
+    "group": "RO-04 Instructor",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              67244
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              71153
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              75061
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              78969
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              82874
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              86785
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              69957
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              74024
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              78089
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              82155
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              86217
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              90287
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              71706
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              75875
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              80041
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              84209
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              88372
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              92544
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              73323
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              77586
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              81846
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              86108
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              90364
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              94631
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              98416
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              74789
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              79138
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              83483
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              87830
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              92171
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              96524
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              100384
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Radio Operations",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ro.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "RO-1",
+    "group": "RO",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              45590
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              48939
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              52291
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              55642
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              58995
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              62345
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              47430
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              50914
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              54401
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              57887
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              61375
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              64860
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              48616
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              52187
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              55761
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              59334
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              62909
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              66482
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              49712
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              53364
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              57018
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              60672
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              64327
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              67982
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              70700
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              50706
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              54431
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              58158
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              61885
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              65614
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              69342
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              72114
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Radio Operations",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ro.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "RO-2",
+    "group": "RO",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              52262
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              54868
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              57472
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              60077
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              62681
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              65289
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              54370
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              57082
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              59790
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              62501
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              65210
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              67923
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              55729
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              58509
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              61285
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              64064
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              66840
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              69621
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              56986
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              59828
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              62667
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              65508
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              68347
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              71191
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              74039
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              58126
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              61025
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              63920
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              66818
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              69714
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              72615
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              75520
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Radio Operations",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ro.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "RO-3",
+    "group": "RO",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              58392
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              61934
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              65473
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              69009
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              72549
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              76088
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              60748
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              64432
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              68115
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              71793
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              75476
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              79157
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              62267
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              66043
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              69818
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              73588
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              77363
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              81136
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              63671
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              67532
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              71392
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              75248
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              79107
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              82966
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              86284
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              64944
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              68883
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              72820
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              76753
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              80689
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              84625
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              88010
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Radio Operations",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ro.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "RO-4",
+    "group": "RO",
+    "level": "4",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              63098
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              66971
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              70848
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              74720
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              78594
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              82469
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              65643
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              69673
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              73706
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              77735
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              81764
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              85796
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              67284
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              71415
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              75549
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              79678
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              83808
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              87941
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              68802
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              73025
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              77253
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              81475
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              85698
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              89924
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              93521
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              70178
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              74486
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              78798
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              83105
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              87412
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              91722
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              95391
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Radio Operations",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ro.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "RO-5",
+    "group": "RO",
+    "level": "5",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              68276
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              72520
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              76761
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              81004
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              85246
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              89492
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              71031
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              75445
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              79858
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              84272
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              88685
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              93102
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              72807
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              77331
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              81854
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              86379
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              90902
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              95430
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              74449
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              79075
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              83700
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              88327
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              92952
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              97582
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              101485
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              75938
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              80657
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              85374
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              90094
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              94811
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              99534
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              103515
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Radio Operations",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ro.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "RO-6",
+    "group": "RO",
+    "level": "6",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              75426
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              80310
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              85191
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              90074
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              94957
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              99843
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              78469
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              83550
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              88628
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              93708
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              98788
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              103871
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              80431
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              85639
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              90844
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              96051
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              101258
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              106468
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              82245
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              87570
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              92893
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              98217
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              103541
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              108868
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              113224
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-05-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              83890
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              89321
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              94751
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              100181
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              105612
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              111045
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              115488
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Radio Operations",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ro.html"
+    },
+    "payType": "annual"
+  }
+]

@@ -1,0 +1,997 @@
+[
+  {
+    "grpLvl": "FS-01/FSDP",
+    "group": "FS",
+    "level": "01/FSDP",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              72292
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              75182
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              78190
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              81318
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              84570
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              87954
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              75757
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              78786
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              81939
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              85216
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              88624
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              92170
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              78420
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              81556
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              84819
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              88211
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              91739
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              95410
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              80188
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              83395
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              86731
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              90200
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              93808
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              97561
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              81792
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              85063
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              88466
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              92004
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              95684
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              99512
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Foreign Service",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/fs.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "FS-1",
+    "group": "FS",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 7,
+            "amount": [
+              91472
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 7,
+            "amount": [
+              95857
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 7,
+            "amount": [
+              99227
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 7,
+            "amount": [
+              101465
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-07-01",
+        "rateStepsList": [
+          {
+            "step": 7,
+            "amount": [
+              103494
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Foreign Service",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/fs.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "FS-2",
+    "group": "FS",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              81709
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              85386
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              89228
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              93242
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              97440
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              101824
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              106404
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              113996
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              85626
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              89480
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              93505
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              97711
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              102111
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              106705
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              111505
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              119461
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              88636
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              92625
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              96792
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              101145
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              105700
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              110456
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              115424
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              123660
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              90635
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              94714
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              98975
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              103426
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              108084
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              112947
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              118026
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              126448
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              92448
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              96608
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              100955
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              105495
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              110246
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              115206
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              120387
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              128977
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Foreign Service",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/fs.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "FS-3",
+    "group": "FS",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              98435
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              102369
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              106467
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              110724
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              115155
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              119760
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              127043
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              103154
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              107276
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              111570
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              116031
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              120675
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              125501
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              133134
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              106780
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              111046
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              115492
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              120110
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              124916
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              129912
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              137814
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              109188
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              113550
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              118097
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              122818
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              127733
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              132841
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              140921
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              111372
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              115821
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              120459
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              125274
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              130288
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              135498
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              143739
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Foreign Service",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/fs.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "FS-4",
+    "group": "FS",
+    "level": "4",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              119760
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              124552
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              129533
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              134712
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              143591
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              125501
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              130522
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              135743
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              141170
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              150475
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              129912
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              135110
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              140514
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              146132
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              155764
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              132841
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              138157
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              143682
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              149428
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              159276
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              135498
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              140920
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              146556
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              152417
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              162462
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Foreign Service",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/fs.html"
+    },
+    "payType": "annual"
+  }
+]

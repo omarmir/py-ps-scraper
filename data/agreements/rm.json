@@ -1,0 +1,1802 @@
+[
+  {
+    "grpLvl": "AME-1",
+    "group": "AME",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              103752
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              107902
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              112216
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              116703
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              107934
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              112250
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              116738
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              121406
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              112295
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              116785
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              121454
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              126311
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "RCMP Regular Members and Reservists",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/rm.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "AME-2",
+    "group": "AME",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              140032
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              145675
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              151561
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "RCMP Regular Members and Reservists",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/rm.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "AME-3",
+    "group": "AME",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              161044
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              167534
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              174303
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "RCMP Regular Members and Reservists",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/rm.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "Constable (Cst.)",
+    "group": "Constable (Cst.)",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              65776
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              85461
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              92722
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              99988
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              106576
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              68426
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              88905
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              96459
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              104018
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              110871
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              71191
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              92497
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              100356
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              108220
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              115350
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "RCMP Regular Members and Reservists",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/rm.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "Corporal (Cpl.)",
+    "group": "Corporal (Cpl.)",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              112435
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              116703
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              116966
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              121406
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              121691
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              126311
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "RCMP Regular Members and Reservists",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/rm.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "PRO-1",
+    "group": "PRO",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              67115
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              69794
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              72588
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              75490
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              78509
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              69819
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              72607
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              75514
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              78533
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              81673
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              72639
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              75540
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              78564
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              81706
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              84972
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "RCMP Regular Members and Reservists",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/rm.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "PRO-2",
+    "group": "PRO",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              73154
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              76077
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              79119
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              82286
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              85576
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              76102
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              79143
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              82308
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              85603
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              89024
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              79176
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              82341
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              85633
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              89061
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              92620
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "RCMP Regular Members and Reservists",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/rm.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "PT-1",
+    "group": "PT",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              108806
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              111656
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              114589
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              117604
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              120706
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              123892
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              113191
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              116156
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              119207
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              122343
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              125570
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              128885
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              117764
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              120849
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              124023
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              127286
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              130643
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              134092
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "RCMP Regular Members and Reservists",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/rm.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "PT-2",
+    "group": "PT",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              115823
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              118873
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              122010
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              125237
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              128552
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              131965
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              135472
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              120491
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              123663
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              126927
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              130284
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              133733
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              137283
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              140931
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              125359
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              128659
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              132055
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              135548
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              139136
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              142830
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              146625
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "RCMP Regular Members and Reservists",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/rm.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "PT-3",
+    "group": "PT",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              131775
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              135277
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              138886
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              142594
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              146406
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              150325
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              154355
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              137085
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              140728
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              144484
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              148341
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              152306
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              156383
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              160576
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              142624
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              146414
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              150321
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              154334
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              158459
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              162701
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              167064
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "RCMP Regular Members and Reservists",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/rm.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SE-1",
+    "group": "SE",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              64081
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              66773
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              69474
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              72178
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              75275
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              66663
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              69464
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              72274
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              75086
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              78308
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              69356
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              72270
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              75193
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              78120
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              81471
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "RCMP Regular Members and Reservists",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/rm.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SE-2",
+    "group": "SE",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              70203
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              72921
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              75609
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              78351
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              81488
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              73032
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              75860
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              78656
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              81509
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              84772
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              75983
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              78925
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              81834
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              84802
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              88196
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "RCMP Regular Members and Reservists",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/rm.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SE-3",
+    "group": "SE",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              75278
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              78400
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              81520
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              84611
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              88812
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              78311
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              81560
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              84806
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              88020
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              92391
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              81475
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              84855
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              88232
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              91576
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              96124
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "RCMP Regular Members and Reservists",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/rm.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SE-4",
+    "group": "SE",
+    "level": "4",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              93160
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              97208
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              101257
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              105304
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              109509
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              96915
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              101125
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              105338
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              109548
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              113922
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              100830
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              105211
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              109594
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              113974
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              118524
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "RCMP Regular Members and Reservists",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/rm.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SE-5",
+    "group": "SE",
+    "level": "5",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              103605
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              107626
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              111684
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              115745
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              120108
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              107780
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              111964
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              116185
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              120409
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              124948
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              112135
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              116487
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              120879
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              125273
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              129996
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "RCMP Regular Members and Reservists",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/rm.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "Sergeant (Sgt.)",
+    "group": "Sergeant (Sgt.)",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              123509
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              127204
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              128486
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              132330
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              133677
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              137677
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "RCMP Regular Members and Reservists",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/rm.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "Staff Sergeant (S/Sgt.)",
+    "group": "Staff Sergeant (S/Sgt.)",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              134912
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              138657
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              140349
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              144245
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              146019
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              150073
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "RCMP Regular Members and Reservists",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/rm.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "Staff Sergeant Major (S/S/M.), Sergeant Major (S/M), Corps Sergeant Major (C/S/M), Constable (Cst.)",
+    "group": "Staff Sergeant Major (S/S/M.), Sergeant Major (S/M), Corps Sergeant Major (C/S/M), Constable (Cst.)",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              139075
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              144679
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              150524
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "RCMP Regular Members and Reservists",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/rm.html"
+    },
+    "payType": "annual"
+  }
+]

@@ -1,0 +1,2241 @@
+[
+  {
+    "grpLvl": "AI-1",
+    "group": "AI",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              58123
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              61245
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              64368
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              67487
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              70613
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              73735
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              76864
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              79981
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              83107
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              88615
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              60909
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              64181
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              67454
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              70722
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              73998
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              77270
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              80548
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              83815
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              87091
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              92863
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              63050
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              66437
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              69825
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              73208
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              76599
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              79986
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              83379
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              86761
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              90153
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              96127
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              64472
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              67935
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              71400
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              74859
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              78326
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              81790
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              85260
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              88717
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              92186
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              98295
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              65761
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              69294
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              72828
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              76356
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              79893
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              83426
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              86965
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              90491
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              94030
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              100261
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Air Traffic Control",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ai.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "AI-2",
+    "group": "AI",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              70041
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              73159
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              76287
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              79408
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              82531
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              85654
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              88775
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              91900
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              95023
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              100530
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              73398
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              76667
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              79944
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              83214
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              86488
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              89760
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              93031
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              96306
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              99578
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              105350
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              75978
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              79362
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              82754
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              86139
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              89528
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              92915
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              96301
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              99691
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              103078
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              109054
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              77692
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              81151
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              84620
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              88082
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              91547
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              95010
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              98473
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              101939
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              105403
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              111513
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              79246
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              82774
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              86312
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              89844
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              93378
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              96910
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              100442
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              103978
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              107511
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              113743
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Air Traffic Control",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ai.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "AI-3",
+    "group": "AI",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              83652
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              86776
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              89904
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              93034
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              96162
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              99288
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              102410
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              105538
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              108658
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              114167
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              87662
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              90936
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              94214
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              97494
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              100772
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              104048
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              107319
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              110597
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              113867
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              119640
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              90743
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              94132
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              97525
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              100921
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              104314
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              107705
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              111092
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              114485
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              117869
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              123845
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              92789
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              96255
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              99725
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              103196
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              106666
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              110134
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              113597
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              117067
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              120527
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              126638
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              94645
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              98180
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              101720
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              105260
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              108799
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              112337
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              115869
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              119408
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              122938
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              129171
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Air Traffic Control",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ai.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "AI-4",
+    "group": "AI",
+    "level": "4",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              98864
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              102339
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              105816
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              109289
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              112761
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              116230
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              119709
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              123184
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              128692
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              103603
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              107245
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              110889
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              114528
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              118167
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              121802
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              125448
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              129089
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              134861
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              107245
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              111014
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              114787
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              118554
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              122321
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              126083
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              129857
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              133627
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              139602
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              109663
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              113517
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              117376
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              121227
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              125079
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              128927
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              132785
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              136641
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              142750
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              111856
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              115787
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              119724
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              123652
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              127581
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              131506
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              135441
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              139374
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              145605
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Air Traffic Control",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ai.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "AI-5",
+    "group": "AI",
+    "level": "5",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              102339
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              105816
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              109288
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              112760
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              116228
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              119708
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              123182
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              126655
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              132161
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              107245
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              110889
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              114527
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              118166
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              121800
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              125447
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              129087
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              132727
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              138497
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              111014
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              114787
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              118553
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              122320
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              126081
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              129856
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              133625
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              137393
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              143365
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              113517
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              117376
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              121226
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              125078
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              128925
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              132784
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              136639
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              140491
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              146598
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              115787
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              119724
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              123651
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              127580
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              131504
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              135440
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              139372
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              143301
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              149530
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Air Traffic Control",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ai.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "AI-6",
+    "group": "AI",
+    "level": "6",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              106709
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              110179
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              113657
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              117131
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              120602
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              124082
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              127555
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              131027
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              136536
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              111825
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              115460
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              119105
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              122746
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              126383
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              130030
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              133669
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              137308
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              143081
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              115756
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              119519
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              123291
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              127060
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              130825
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              134601
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              138367
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              142134
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              148110
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              118366
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              122214
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              126071
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              129925
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              133776
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              137636
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              141487
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              145339
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              151450
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              120733
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              124658
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              128592
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              132524
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              136452
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              140389
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              144317
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              148246
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              154479
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Air Traffic Control",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ai.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "AI-7",
+    "group": "AI",
+    "level": "7",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              112604
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              116077
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              119551
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              123026
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              126501
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              129973
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              133447
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              136917
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              141356
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              118002
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              121642
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              125282
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              128924
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              132566
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              136204
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              139844
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              143480
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              148132
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              122150
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              125917
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              129685
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              133456
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              137226
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              140991
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              144759
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              148523
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              153339
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              124904
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              128756
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              132610
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              136465
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              140321
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              144171
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              148023
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              151872
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              156797
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              127402
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              131331
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              135262
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              139194
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              143127
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              147054
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              150983
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              154909
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              159933
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Air Traffic Control",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ai.html"
+    },
+    "payType": "annual"
+  }
+]

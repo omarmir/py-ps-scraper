@@ -1,0 +1,560 @@
+[
+  {
+    "grpLvl": "CX-1",
+    "group": "CX",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              66974
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              70877
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              75012
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              79395
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              84045
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              70184
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              74275
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              78607
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              83201
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              88074
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              74314
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              78645
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              83232
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              88097
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              93256
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              75990
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              80419
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              85109
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              90084
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              95359
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              77510
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              82027
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              86811
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              91886
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              97266
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Correctional Services",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/cx.html"
+    }
+  },
+  {
+    "grpLvl": "CX-2",
+    "group": "CX",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              70958
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              75100
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              79487
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              84137
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              89068
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              74360
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              78701
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              83297
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              88171
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              93337
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              78736
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              83332
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              88198
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              93359
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              98829
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              80512
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              85211
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              90187
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              95464
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              101058
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              82122
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              86915
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              91991
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              97373
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              103079
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Correctional Services",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/cx.html"
+    }
+  },
+  {
+    "grpLvl": "CX-3",
+    "group": "CX",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              76995
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              81497
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              86270
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              91331
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              96694
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              80686
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              85403
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              90405
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              95710
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              101329
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              85434
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              90428
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              95724
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              101341
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              107291
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              87361
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              92468
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              97882
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              103626
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              109711
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              89108
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              94317
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              99840
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              105699
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              111905
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Correctional Services",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/cx.html"
+    }
+  }
+]

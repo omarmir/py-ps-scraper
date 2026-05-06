@@ -1,0 +1,3186 @@
+[
+  {
+    "grpLvl": "CO-1",
+    "group": "CO",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              61472
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              64239
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              67018
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              69778
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              72553
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              75326
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              78093
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              80867
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              64419
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              67318
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              70231
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              73123
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              76031
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              78937
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              81836
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              84743
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              66684
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              69685
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              72700
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              75694
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              78704
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              81712
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              84712
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              87721
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              68188
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              71257
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              74339
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              77401
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              80479
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              83554
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              86622
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              89699
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              69552
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              72682
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              75826
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              78949
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              82089
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              85225
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              88354
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              91493
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Commerce and Purchasing",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/cp.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "CO-2",
+    "group": "CO",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              79516
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              83449
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              87388
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              91318
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              95255
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              99182
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              103131
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              107063
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              113222
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              83328
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              87450
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              91578
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              95695
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              99821
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              103936
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              108075
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              112195
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              118650
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              86257
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              90524
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              94797
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              99059
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              103330
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              107589
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              111874
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              116139
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              122821
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              88202
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              92565
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              96935
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              101293
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              105660
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              110015
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              114396
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              118758
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              125590
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              89966
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              94416
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              98874
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              103319
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              107773
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              112215
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              116684
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              121133
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              128102
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Commerce and Purchasing",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/cp.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "CO-3",
+    "group": "CO",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              98709
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              103169
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              107626
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              112081
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              116539
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              120731
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              124924
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              103441
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              108115
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              112785
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              117454
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              122126
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              126519
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              130912
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              107077
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              111915
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              116750
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              121583
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              126419
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              130967
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              135513
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              109492
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              114438
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              119383
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              124325
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              129269
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              133920
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              138569
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              111682
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              116727
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              121771
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              126812
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              131854
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              136598
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              141340
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Commerce and Purchasing",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/cp.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "CO-4",
+    "group": "CO",
+    "level": "4",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              112202
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              117011
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              121534
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              126052
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              130574
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              135091
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              117581
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              122620
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              127360
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              132095
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              136833
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              141567
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              121714
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              126930
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              131837
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              136738
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              141643
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              146543
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              124458
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              129793
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              134810
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              139822
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              144837
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              149848
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              126947
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              132389
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              137506
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              142618
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              147734
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              152845
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Commerce and Purchasing",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/cp.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "CO-DEV/PER",
+    "group": "CO",
+    "level": "DEV/PER",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              31171,
+              66829
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              32665,
+              70033
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              33813,
+              72495
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              34575,
+              74130
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              35267,
+              75613
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Commerce and Purchasing",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/cp.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "PG-1",
+    "group": "PG",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              47415
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              49735
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              52046
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              54357
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              56675
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              58988
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              62066
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              49688
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              52119
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              54541
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              56962
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              59392
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              61816
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              65041
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              51435
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              53951
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              56458
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              58964
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              61480
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              63988
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              67327
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              52595
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              55168
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              57731
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              60293
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              62867
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              65431
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              68846
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              53647
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              56271
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              58886
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              61499
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              64124
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              66740
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              70223
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Commerce and Purchasing",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/cp.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "PG-2",
+    "group": "PG",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              61896
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              64536
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              67164
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              70668
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              64863
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              67630
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              70384
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              74055
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              67143
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              70007
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              72858
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              76658
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              68657
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              71586
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              74501
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              78386
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              70030
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              73018
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              75991
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              79954
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Commerce and Purchasing",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/cp.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "PG-3",
+    "group": "PG",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              68909
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              71849
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              74784
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              78691
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              72213
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              75294
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              78369
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              82463
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              74751
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              77941
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              81124
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              85362
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              76437
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              79699
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              82953
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              87287
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              77966
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              81293
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              84612
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              89033
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Commerce and Purchasing",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/cp.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "PG-4",
+    "group": "PG",
+    "level": "4",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              81747
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              85251
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              88754
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              93413
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              85666
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              89338
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              93008
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              97891
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              88677
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              92478
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              96277
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              101332
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              90677
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              94564
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              98449
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              103617
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              92491
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              96455
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              100418
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              105689
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Commerce and Purchasing",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/cp.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "PG-5",
+    "group": "PG",
+    "level": "5",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              96225
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              100357
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              104228
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              108091
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              100838
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              105167
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              109224
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              113272
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              104382
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              108864
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              113064
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              117253
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              106736
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              111319
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              115613
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              119897
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              108871
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              113545
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              117925
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              122295
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Commerce and Purchasing",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/cp.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "PG-6",
+    "group": "PG",
+    "level": "6",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              105991
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              109913
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              113822
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              117731
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              111072
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              115182
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              119279
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              123375
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              114976
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              119230
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              123471
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              127711
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              117569
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              121919
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              126255
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              130591
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              119920
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              124357
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              128780
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              133203
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Commerce and Purchasing",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/cp.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SPS-PUR-1",
+    "group": "SPS-PUR",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              47415
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              49735
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              52046
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              54357
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              56675
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              58988
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              62066
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              49688
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              52119
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              54541
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              56962
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              59392
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              61816
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              65041
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              51435
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              53951
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              56458
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              58964
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              61480
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              63988
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              67327
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              52595
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              55168
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              57731
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              60293
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              62867
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              65431
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              68846
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              53647
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              56271
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              58886
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              61499
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              64124
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              66740
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              70223
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Commerce and Purchasing",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/cp.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SPS-PUR-2",
+    "group": "SPS-PUR",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              61896
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              64536
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              67164
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              70668
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              64863
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              67630
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              70384
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              74055
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              67143
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              70007
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              72858
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              76658
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              68657
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              71586
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              74501
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              78386
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              70030
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              73018
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              75991
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              79954
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Commerce and Purchasing",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/cp.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SPS-PUR-3",
+    "group": "SPS-PUR",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              68909
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              71849
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              74784
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              78691
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              72213
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              75294
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              78369
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              82463
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              74751
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              77941
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              81124
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              85362
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              76437
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              79699
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              82953
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              87287
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              77966
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              81293
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              84612
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              89033
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Commerce and Purchasing",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/cp.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SPS-PUR-4",
+    "group": "SPS-PUR",
+    "level": "4",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              81747
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              85251
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              88754
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              93413
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              85666
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              89338
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              93008
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              97891
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              88677
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              92478
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              96277
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              101332
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              90677
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              94564
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              98449
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              103617
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              92491
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              96455
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              100418
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              105689
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Commerce and Purchasing",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/cp.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SPS-PUR-5",
+    "group": "SPS-PUR",
+    "level": "5",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              96225
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              100357
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              104228
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              108091
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              100838
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              105167
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              109224
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              113272
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              104382
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              108864
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              113064
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              117253
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              106736
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              111319
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              115613
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              119897
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              108871
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              113545
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              117925
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              122295
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Commerce and Purchasing",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/cp.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SPS-PUR-6",
+    "group": "SPS-PUR",
+    "level": "6",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              105991
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              109913
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              113822
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              117731
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              111072
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              115182
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              119279
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              123375
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              114976
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              119230
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              123471
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              127711
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              117569
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              121919
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              126255
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              130591
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              119920
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              124357
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              128780
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              133203
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Commerce and Purchasing",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/cp.html"
+    },
+    "payType": "annual"
+  }
+]

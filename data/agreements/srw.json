@@ -1,0 +1,1286 @@
+[
+  {
+    "grpLvl": "APC-1",
+    "group": "APC",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              20.0
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              20.3
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "APD-1",
+    "group": "APD",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              20.0
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              20.3
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "BOB-9",
+    "group": "BOB",
+    "level": "9",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "EEW(R)-10",
+    "group": "EEW(R)-10",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "EEW-10",
+    "group": "EEW",
+    "level": "10",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "EEW-11",
+    "group": "EEW",
+    "level": "11",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "EEW-12",
+    "group": "EEW",
+    "level": "12",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              44.68
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              45.35
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "ELE-1",
+    "group": "ELE",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              16.07
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              16.31
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "ELE-2",
+    "group": "ELE",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              28.57
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              29.0
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "ELE-3",
+    "group": "ELE",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              28.57
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              29.0
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "ELE-4",
+    "group": "ELE",
+    "level": "4",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              33.15
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              33.65
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "EME-9",
+    "group": "EME",
+    "level": "9",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "INM-11",
+    "group": "INM",
+    "level": "11",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "LH",
+    "group": "LH",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1.91
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1.94
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "MAC-10",
+    "group": "MAC",
+    "level": "10",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "MAC-11",
+    "group": "MAC",
+    "level": "11",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "MAC-9",
+    "group": "MAC",
+    "level": "9",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "MAM-10",
+    "group": "MAM",
+    "level": "10",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "MAM-9",
+    "group": "MAM",
+    "level": "9",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "MAN-5",
+    "group": "MAN",
+    "level": "5",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "MAN-7",
+    "group": "MAN",
+    "level": "7",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "MDO-6",
+    "group": "MDO",
+    "level": "6",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "MGT-1",
+    "group": "MGT",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              46.4
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              47.1
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "PIP-8",
+    "group": "PIP",
+    "level": "8",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "PLE-10",
+    "group": "PLE",
+    "level": "10",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              44.68
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              45.35
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "PLE-9",
+    "group": "PLE",
+    "level": "9",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              44.68
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              45.35
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "PRW-6",
+    "group": "PRW",
+    "level": "6",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "PRW-8",
+    "group": "PRW",
+    "level": "8",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "QCW-10",
+    "group": "QCW",
+    "level": "10",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              44.68
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              45.35
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "QCW-11",
+    "group": "QCW",
+    "level": "11",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              44.68
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              45.35
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "SMW-8",
+    "group": "SMW",
+    "level": "8",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "SPS-5",
+    "group": "SPS",
+    "level": "5",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              34.09
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              34.6
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "SPS-6",
+    "group": "SPS",
+    "level": "6",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "SPS-7",
+    "group": "SPS",
+    "level": "7",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "WOW-8",
+    "group": "WOW",
+    "level": "8",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  },
+  {
+    "grpLvl": "WOW-8/BOB-9",
+    "group": "WOW-8/BOB-9",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-01-31",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.57
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (West)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/srw.html"
+    }
+  }
+]

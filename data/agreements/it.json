@@ -1,0 +1,2832 @@
+[
+  {
+    "grpLvl": "IT-1",
+    "group": "IT",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              60696
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              62940
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              65180
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              67408
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              69634
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              71861
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              74086
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              78216
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              61606
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              63884
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              66158
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              68419
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              70679
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              72939
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              75197
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              79389
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              65528
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              67950
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              70369
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              72774
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              75178
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              77582
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              79983
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              84443
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              67831
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              70339
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              72842
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              75332
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              77820
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              80309
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              82794
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              87411
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              69361
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              71925
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              74485
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              77031
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              79574
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              82120
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              84661
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              89382
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Information Technology",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/it.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "IT-2",
+    "group": "IT",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              75129
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              77535
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              79937
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              82340
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              84745
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              87147
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              89551
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              91953
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              76256
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              78698
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              81136
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              83575
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              86016
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              88454
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              90894
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              93332
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              81110
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              83707
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              86300
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              88895
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              91492
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              94085
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              96680
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              99274
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              83961
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              86649
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              89333
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              92020
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              94708
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              97393
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              100078
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              102763
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              85854
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              88603
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              91348
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              94095
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              96844
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              99589
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              102335
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              105080
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Information Technology",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/it.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "IT-3",
+    "group": "IT",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              88683
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              91737
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              94792
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              97848
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              100901
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              103951
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              107005
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              110182
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              90013
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              93113
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              96214
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              99316
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              102415
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              105510
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              108610
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              111835
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              95743
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              99041
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              102338
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              105638
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              108934
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              112227
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              115523
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              118955
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              99108
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              102522
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              105935
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              109351
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              112763
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              116172
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              119584
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              123137
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              101343
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              104833
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              108324
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              111817
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              115306
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              118791
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              122281
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              125914
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Information Technology",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/it.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "IT-4",
+    "group": "IT",
+    "level": "4",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              101541
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              105042
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              108542
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              112044
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              115545
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              119045
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              122545
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              126390
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              103064
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              106618
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              110170
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              113725
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              117278
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              120831
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              124383
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              128286
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              109624
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              113405
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              117184
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              120964
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              124743
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              128523
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              132301
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              136452
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              113478
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              117391
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              121304
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              125216
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              129127
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              133041
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              136951
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              141249
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              116037
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              120038
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              124039
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              128039
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              132039
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              136041
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              140039
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              144434
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Information Technology",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/it.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "IT-5",
+    "group": "IT",
+    "level": "5",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              115754
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              120070
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              124383
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              128699
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              133016
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              137333
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              141648
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              145964
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              150842
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              117490
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              121871
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              126249
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              130629
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              135011
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              139393
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              143773
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              148153
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              153105
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              126200
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              130906
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              135608
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              140313
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              145020
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              149727
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              154432
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              159137
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              164456
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              130636
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              135507
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              140374
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              145245
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              150118
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              154990
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              159860
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              164731
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              170237
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              133582
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              138563
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              143539
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              148520
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              153503
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              158485
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              163465
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              168446
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              174076
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Information Technology",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/it.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SPS-ICT-1",
+    "group": "SPS-ICT",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              60696
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              62940
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              65180
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              67408
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              69634
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              71861
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              74086
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              78216
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              61606
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              63884
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              66158
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              68419
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              70679
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              72939
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              75197
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              79389
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              65528
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              67950
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              70369
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              72774
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              75178
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              77582
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              79983
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              84443
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              67831
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              70339
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              72842
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              75332
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              77820
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              80309
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              82794
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              87411
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              69361
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              71925
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              74485
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              77031
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              79574
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              82120
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              84661
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              89382
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Information Technology",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/it.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SPS-ICT-2",
+    "group": "SPS-ICT",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              75129
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              77535
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              79937
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              82340
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              84745
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              87147
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              89551
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              91953
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              76256
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              78698
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              81136
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              83575
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              86016
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              88454
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              90894
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              93332
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              81110
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              83707
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              86300
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              88895
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              91492
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              94085
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              96680
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              99274
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              83961
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              86649
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              89333
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              92020
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              94708
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              97393
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              100078
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              102763
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              85854
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              88603
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              91348
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              94095
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              96844
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              99589
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              102335
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              105080
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Information Technology",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/it.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SPS-ICT-3",
+    "group": "SPS-ICT",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              88683
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              91737
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              94792
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              97848
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              100901
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              103951
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              107005
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              110182
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              90013
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              93113
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              96214
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              99316
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              102415
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              105510
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              108610
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              111835
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              95743
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              99041
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              102338
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              105638
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              108934
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              112227
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              115523
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              118955
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              99108
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              102522
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              105935
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              109351
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              112763
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              116172
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              119584
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              123137
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              101343
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              104833
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              108324
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              111817
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              115306
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              118791
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              122281
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              125914
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Information Technology",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/it.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SPS-ICT-4",
+    "group": "SPS-ICT",
+    "level": "4",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              101541
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              105042
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              108542
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              112044
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              115545
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              119045
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              122545
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              126390
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              103064
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              106618
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              110170
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              113725
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              117278
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              120831
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              124383
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              128286
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              109624
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              113405
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              117184
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              120964
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              124743
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              128523
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              132301
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              136452
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              113478
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              117391
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              121304
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              125216
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              129127
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              133041
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              136951
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              141249
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              116037
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              120038
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              124039
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              128039
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              132039
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              136041
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              140039
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              144434
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Information Technology",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/it.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SPS-ICT-5",
+    "group": "SPS-ICT",
+    "level": "5",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              115754
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              120070
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              124383
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              128699
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              133016
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              137333
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              141648
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              145964
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              150842
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              117490
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              121871
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              126249
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              130629
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              135011
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              139393
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              143773
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              148153
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              153105
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              126200
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              130906
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              135608
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              140313
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              145020
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              149727
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              154432
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              159137
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              164456
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              130636
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              135507
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              140374
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              145245
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              150118
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              154990
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              159860
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              164731
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              170237
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-12-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              133582
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              138563
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              143539
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              148520
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              153503
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              158485
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              163465
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              168446
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              174076
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Information Technology",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/it.html"
+    },
+    "payType": "annual"
+  }
+]

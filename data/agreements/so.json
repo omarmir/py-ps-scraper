@@ -1,0 +1,10320 @@
+[
+  {
+    "grpLvl": "SO-FLP-1@hourly",
+    "group": "SO-FLP",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              30.35
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              31.42
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              32.52
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              33.64
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              31.2
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              32.3
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              33.43
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              34.58
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              31.89
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              33.01
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              34.17
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              35.34
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              32.37
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              33.51
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              34.68
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              35.87
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              32.86
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              34.01
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              35.2
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              36.41
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              34.44
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              35.64
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              36.89
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              38.15
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              35.47
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              36.71
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              38.0
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              39.29
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              36.89
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              38.18
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              39.52
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              40.86
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              37.72
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              39.04
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              40.41
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              41.78
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              38.47
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              39.82
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              41.22
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              42.62
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "SO-FLP-2@hourly",
+    "group": "SO-FLP",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              32.58
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              33.72
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              34.9
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              36.11
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              33.49
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              34.66
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              35.88
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              37.12
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              34.23
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              35.42
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              36.67
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              37.94
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              34.74
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              35.95
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              37.22
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              38.51
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              35.26
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              36.49
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              37.78
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              39.09
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              36.95
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              38.24
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              39.59
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              40.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              38.06
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              39.39
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              40.78
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              42.2
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.58
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              40.97
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              42.41
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              43.89
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.47
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              41.89
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              43.37
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              44.88
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              41.28
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              42.73
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              44.24
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              45.78
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "SO-FLP-3@hourly",
+    "group": "SO-FLP",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              35.04
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              36.29
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              37.55
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              38.86
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              36.02
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              37.31
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              38.6
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              39.95
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              36.81
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              38.13
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              39.45
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              40.83
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              37.36
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              38.7
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              40.04
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              41.44
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              37.92
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              39.28
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              40.64
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              42.06
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.74
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              41.16
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              42.59
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              44.07
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.93
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              42.39
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              43.87
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              45.39
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              42.57
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              44.09
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              45.62
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              47.21
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              43.53
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              45.08
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              46.65
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              48.27
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              44.4
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              45.98
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              47.58
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              49.24
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "SO-FLP-4@hourly",
+    "group": "SO-FLP",
+    "level": "4",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              37.23
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              38.51
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              39.86
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              41.26
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              38.27
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              39.59
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              40.98
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              42.42
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.11
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              40.46
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              41.88
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              43.35
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.7
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              41.07
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              42.51
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              44.0
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.3
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              41.69
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              43.15
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              44.66
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              42.23
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              43.69
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              45.22
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              46.8
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              43.5
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              45.0
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              46.58
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              48.2
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              45.24
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              46.8
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              48.44
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              50.13
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              46.26
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              47.86
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              49.53
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              51.26
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              47.19
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              48.82
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              50.52
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              52.29
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "SO-FLP-5@hourly",
+    "group": "SO-FLP",
+    "level": "5",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.83
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              41.24
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              42.68
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              44.18
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.95
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              42.39
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              43.88
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              45.42
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              41.85
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              43.32
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              44.85
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              46.42
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              42.48
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              43.97
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              45.52
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              47.12
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              43.12
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              44.63
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              46.2
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              47.83
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              45.19
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              46.77
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              48.42
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              50.12
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              46.55
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              48.17
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              49.87
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              51.62
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              48.41
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              50.1
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              51.86
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              53.68
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              49.5
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              51.23
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              53.03
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              54.89
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              50.49
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              52.25
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              54.09
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              55.99
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "SO-FLP-6@hourly",
+    "group": "SO-FLP",
+    "level": "6",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              42.4
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              43.87
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              45.4
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              47.0
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              43.59
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              45.1
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              46.67
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              48.32
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              44.55
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              46.09
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              47.7
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              49.38
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              45.22
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              46.78
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              48.42
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              50.12
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              45.9
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              47.48
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              49.15
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              50.87
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              48.1
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              49.75
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              51.51
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              53.31
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              49.54
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              51.24
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              53.06
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              54.91
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              51.52
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              53.29
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              55.18
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              57.11
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              52.68
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              54.5
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              56.42
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              58.4
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              53.73
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              55.59
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              57.55
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              59.57
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "SO-FLP-7@hourly",
+    "group": "SO-FLP",
+    "level": "7",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              44.92
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              46.48
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              48.1
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              49.8
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              46.18
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              47.78
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              49.45
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              51.19
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              47.2
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              48.83
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              50.54
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              52.32
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              47.91
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              49.56
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              51.3
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              53.1
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              48.63
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              50.3
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              52.07
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              53.9
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              50.96
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              52.71
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              54.56
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              56.49
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              52.49
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              54.29
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              56.2
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              58.18
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              54.59
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              56.46
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              58.45
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              60.51
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              55.82
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              57.73
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              59.77
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              61.87
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              56.94
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              58.88
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              60.97
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              63.11
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "SO-INS-1",
+    "group": "SO-INS",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              88516
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              92057
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              95735
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              99566
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              103547
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              107694
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              112000
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              116479
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              90994
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              94635
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              98416
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              102354
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              106446
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              110709
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              115136
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              119740
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              92996
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              96717
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              100581
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              104606
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              108788
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              113145
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              117669
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              122374
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              94391
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              98168
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              102090
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              106175
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              110420
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              114842
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              119434
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              124210
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              95807
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              99641
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              103621
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              107768
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              112076
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              116565
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              121226
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              126073
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              100400
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              104417
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              108589
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              112934
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              117449
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              122153
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              127037
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              132117
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              103412
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              107550
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              111847
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              116322
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              120972
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              125818
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              130848
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              136081
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              107548
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              111852
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              116321
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              120975
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              125811
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              130851
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              136082
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              141524
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              109973
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              114374
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              118944
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              123703
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              128648
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              133802
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              139151
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              144715
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              112172
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              116661
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              121323
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              126177
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              131221
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              136478
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              141934
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              147609
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SO-INS-1@hourly",
+    "group": "SO-INS",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              42.41
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              44.11
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              45.87
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              47.71
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              49.61
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              51.6
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              53.66
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              55.81
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              43.6
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              45.34
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              47.16
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              49.04
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              51.0
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              53.05
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              55.17
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              57.37
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              44.56
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              46.34
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              48.19
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              50.12
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              52.13
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              54.21
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              56.38
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              58.64
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              45.23
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              47.04
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              48.92
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              50.87
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              52.91
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              55.03
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              57.23
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              59.52
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              45.91
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              47.74
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              49.65
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              51.64
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              53.7
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              55.85
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              58.09
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              60.41
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              48.11
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              50.03
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              52.03
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              54.11
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              56.28
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              58.53
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              60.87
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              63.3
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              49.55
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              51.53
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              53.59
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              55.74
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              57.96
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              60.29
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              62.7
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              65.2
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              51.53
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              53.59
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              55.74
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              57.96
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              60.28
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              62.7
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              65.2
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              67.81
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              52.69
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              54.8
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              56.99
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              59.27
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              61.64
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              64.11
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              66.67
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              69.34
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              53.75
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              55.9
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              58.13
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              60.46
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              62.87
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              65.39
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              68.01
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              70.73
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "SO-INS-1@weekly",
+    "group": "SO-INS",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1696.49
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1764.36
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1834.85
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1908.27
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              1984.57
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2064.05
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              2146.58
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              2232.42
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1743.98
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1813.76
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1886.23
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1961.71
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2040.13
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2121.84
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              2206.69
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              2294.92
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1782.35
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1853.67
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1927.73
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2004.87
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2085.02
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2168.53
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              2255.23
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              2345.41
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1809.09
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1881.48
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1956.65
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2034.94
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2116.3
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2201.05
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              2289.06
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              2380.6
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1836.23
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1909.71
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1985.99
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2065.47
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2148.04
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2234.07
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              2323.41
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              2416.3
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1924.26
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              2001.25
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              2081.21
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2164.48
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2251.02
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2341.17
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              2434.78
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              2532.14
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1981.98
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              2061.29
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              2143.65
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2229.42
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2318.54
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2411.42
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              2507.82
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              2608.11
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              2061.25
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              2143.74
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              2229.4
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2318.59
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2411.28
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2507.88
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              2608.13
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              2712.43
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              2107.73
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              2192.08
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              2279.67
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2370.88
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2465.65
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2564.44
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              2666.95
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              2773.59
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              2149.88
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              2235.91
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              2325.26
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2418.3
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2514.97
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2615.72
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              2720.29
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              2829.06
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "weekly"
+  },
+  {
+    "grpLvl": "SO-INS-2",
+    "group": "SO-INS",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              95772
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              99600
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              103585
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              107728
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              112037
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              116514
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              121177
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              126022
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              98454
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              102389
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              106485
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              110744
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              115174
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              119776
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              124570
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              129551
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              100620
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              104642
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              108828
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              113180
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              117708
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              122411
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              127311
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              132401
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              102129
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              106212
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              110460
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              114878
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              119474
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              124247
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              129221
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              134387
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              103661
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              107805
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              112117
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              116601
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              121266
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              126111
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              131159
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              136403
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              108630
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              112973
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              117492
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              122191
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              127079
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              132157
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              137447
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              142942
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              111889
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              116362
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              121017
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              125857
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              130891
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              136122
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              141570
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              147230
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              116365
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              121016
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              125858
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              130891
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              136127
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              141567
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              147233
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              153119
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              118989
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              123745
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              128696
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              133843
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              139197
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              144759
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              150553
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              156571
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              121369
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              126220
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              131270
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              136520
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              141981
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              147654
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              153564
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              159702
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SO-INS-2@hourly",
+    "group": "SO-INS",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              45.89
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              47.72
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              49.63
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              51.62
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              53.68
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              55.83
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              58.06
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              60.38
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              47.17
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              49.06
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              51.02
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              53.06
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              55.19
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              57.39
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              59.69
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              62.07
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              48.21
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              50.14
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              52.14
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              54.23
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              56.4
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              58.65
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              61.0
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              63.44
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              48.93
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              50.89
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              52.93
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              55.04
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              57.25
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              59.53
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              61.92
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              64.39
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              49.67
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              51.65
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              53.72
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              55.87
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              58.1
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              60.43
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              62.84
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              65.36
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              52.05
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              54.13
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              56.3
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              58.55
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              60.89
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              63.32
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              65.86
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              68.49
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              53.61
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              55.75
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              57.99
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              60.3
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              62.72
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              65.22
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              67.83
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              70.55
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              55.76
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              57.98
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              60.3
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              62.72
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              65.23
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              67.83
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              70.55
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              73.37
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              57.01
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              59.29
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              61.66
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              64.13
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              66.7
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              69.36
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              72.14
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              75.02
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              58.15
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              60.48
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              62.9
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              65.41
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              68.03
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              70.75
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              73.58
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              76.52
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "SO-INS-2@weekly",
+    "group": "SO-INS",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1835.56
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1908.92
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1985.3
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2064.7
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2147.29
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2233.1
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              2322.47
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              2415.33
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1886.96
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1962.38
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              2040.88
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2122.51
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2207.41
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2295.61
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              2387.5
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              2482.96
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1928.47
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              2005.56
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              2085.79
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2169.2
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2255.98
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2346.12
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              2440.03
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              2537.58
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1957.39
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              2035.65
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              2117.07
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2201.74
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2289.83
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2381.31
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              2476.64
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              2575.65
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1986.76
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              2066.18
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              2148.82
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2234.76
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2324.17
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2417.03
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              2513.78
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              2614.29
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              2081.99
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              2165.23
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              2251.84
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2341.9
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2435.58
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2532.91
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              2634.3
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              2739.61
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              2144.45
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              2230.18
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              2319.4
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2412.16
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2508.64
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2608.9
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              2713.32
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              2821.8
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              2230.24
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              2319.38
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              2412.18
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2508.64
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2609.0
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2713.26
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              2821.85
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              2934.66
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              2280.53
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              2371.68
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              2466.57
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2565.22
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2667.84
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2774.44
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              2885.48
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              3000.82
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              2326.15
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              2419.12
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              2515.91
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2616.53
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2721.19
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2829.92
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              2943.19
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              3060.83
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "weekly"
+  },
+  {
+    "grpLvl": "SO-MAO-10@hourly",
+    "group": "SO-MAO",
+    "level": "10",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              50.16
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              51.9
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              53.74
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              55.6
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              51.56
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              53.35
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              55.24
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              57.16
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              52.69
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              54.52
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              56.46
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              58.42
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              53.48
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              55.34
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              57.31
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              59.3
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              54.28
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              56.17
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              58.17
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              60.19
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              56.88
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              58.87
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              60.96
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              63.08
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              58.59
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              60.64
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              62.79
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              64.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              60.93
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              63.07
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              65.3
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              67.57
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              62.31
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              64.49
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              66.78
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              69.09
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              63.56
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              65.78
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              68.12
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              70.47
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "SO-MAO-11@hourly",
+    "group": "SO-MAO",
+    "level": "11",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              55.23
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              57.15
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              59.18
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              61.24
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              56.78
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              58.75
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              60.84
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              62.95
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              58.03
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              60.04
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              62.18
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              64.33
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              58.9
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              60.94
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              63.11
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              65.29
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              59.78
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              61.85
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              64.06
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              66.27
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              62.64
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              64.81
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              67.13
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              69.45
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              64.52
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              66.75
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              69.14
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              71.53
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              67.1
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              69.42
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              71.91
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              74.39
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              68.61
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              70.99
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              73.53
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              76.07
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              69.98
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              72.41
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              75.0
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              77.59
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "SO-MAO-12@hourly",
+    "group": "SO-MAO",
+    "level": "12",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              60.2
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              62.31
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              64.47
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              66.75
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              61.89
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              64.05
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              66.28
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              68.62
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              63.25
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              65.46
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              67.74
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              70.13
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              64.2
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              66.44
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              68.76
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              71.18
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              65.16
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              67.44
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              69.79
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              72.25
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              68.28
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              70.67
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              73.13
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              75.71
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              70.33
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              72.79
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              75.32
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              77.98
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              73.14
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              75.7
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              78.33
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              81.1
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              74.79
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              77.4
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              80.1
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              82.93
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              76.29
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              78.95
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              81.7
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              84.59
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "SO-MAO-1@hourly",
+    "group": "SO-MAO",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              27.97
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              28.97
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              29.98
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              31.02
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              32.12
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              28.75
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              29.78
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              30.82
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              31.89
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              33.02
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              29.38
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              30.44
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              31.5
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              32.59
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              33.75
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              29.82
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              30.9
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              31.97
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              33.08
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              34.26
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              30.27
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              31.36
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              32.45
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              33.58
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              34.77
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              31.72
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              32.87
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              34.01
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              35.19
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              36.44
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              32.67
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              33.86
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              35.03
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              36.25
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              37.53
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              33.98
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              35.21
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              36.43
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              37.7
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              39.03
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              34.75
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              36.0
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              37.25
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              38.55
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              39.91
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              35.45
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              36.72
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              38.0
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              39.32
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              40.71
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "SO-MAO-2@hourly",
+    "group": "SO-MAO",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              31.86
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              32.98
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              34.15
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              35.35
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              32.75
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              33.9
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              35.11
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              36.34
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              33.47
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              34.65
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              35.88
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              37.14
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              33.97
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              35.17
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              36.42
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              37.7
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              34.48
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              35.7
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              36.97
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              38.27
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              36.14
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              37.41
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              38.74
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              40.11
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              37.22
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              38.53
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              39.9
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              41.31
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              38.71
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              40.07
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              41.5
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              42.96
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.58
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              40.97
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              42.44
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              43.93
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.37
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              41.79
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              43.29
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              44.81
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "SO-MAO-3@hourly",
+    "group": "SO-MAO",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              33.02
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              34.53
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              35.73
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              36.99
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              33.94
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              35.5
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              36.73
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              38.03
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              34.69
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              36.28
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              37.54
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              38.87
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              35.21
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              36.82
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              38.1
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              39.45
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              35.74
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              37.37
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              38.67
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              40.04
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              37.45
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              39.16
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              40.52
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              41.96
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              38.57
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              40.33
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              41.74
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              43.22
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.11
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              41.94
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              43.41
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              44.95
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              41.01
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              42.89
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              44.39
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              45.96
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              41.83
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              43.75
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              45.28
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              46.88
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "SO-MAO-4@hourly",
+    "group": "SO-MAO",
+    "level": "4",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              35.01
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              36.48
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              37.77
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              39.1
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              35.99
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              37.5
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              38.83
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              40.19
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              36.78
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              38.33
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              39.68
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              41.07
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              37.33
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              38.9
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              40.28
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              41.69
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              37.89
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              39.48
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              40.88
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              42.32
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.71
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              41.37
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              42.84
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              44.35
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.9
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              42.61
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              44.13
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              45.68
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              42.54
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              44.31
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              45.9
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              47.51
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              43.5
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              45.31
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              46.94
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              48.58
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              44.37
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              46.22
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              47.88
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              49.55
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "SO-MAO-5@hourly",
+    "group": "SO-MAO",
+    "level": "5",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              37.28
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              38.83
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              40.19
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              41.59
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              38.32
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              39.92
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              41.32
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              42.75
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.16
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              40.8
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              42.23
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              43.69
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.75
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              41.41
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              42.86
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              44.35
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.35
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              42.03
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              43.5
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              45.02
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              42.28
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              44.04
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              45.58
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              47.18
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              43.55
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              45.36
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              46.95
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              48.6
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              45.29
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              47.17
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              48.83
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              50.54
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              46.32
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              48.23
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              49.93
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              51.68
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              47.25
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              49.19
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              50.93
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              52.71
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "SO-MAO-6@hourly",
+    "group": "SO-MAO",
+    "level": "6",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.14
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              40.51
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              41.94
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              43.39
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.24
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              41.64
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              43.11
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              44.6
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              41.13
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              42.56
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              44.06
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              45.58
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              41.75
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              43.2
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              44.72
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              46.26
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              42.38
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              43.85
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              45.39
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              46.95
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              44.41
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              45.95
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              47.57
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              49.2
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              45.74
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              47.33
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              49.0
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              50.68
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              47.57
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              49.22
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              50.96
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              52.71
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              48.64
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              50.33
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              52.11
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              53.89
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              49.61
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              51.34
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              53.15
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              54.97
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "SO-MAO-7@hourly",
+    "group": "SO-MAO",
+    "level": "7",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.62
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              42.04
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              43.52
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              45.05
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              41.76
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              43.22
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              44.74
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              46.31
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              42.68
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              44.17
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              45.72
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              47.33
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              43.32
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              44.83
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              46.41
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              48.04
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              43.97
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              45.5
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              47.11
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              48.76
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              46.08
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              47.68
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              49.37
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              51.1
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              47.46
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              49.11
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              50.85
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              52.63
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              49.36
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              51.07
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              52.88
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              54.74
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              50.48
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              52.22
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              54.07
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              55.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              51.49
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              53.26
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              55.15
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              57.09
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "SO-MAO-8@hourly",
+    "group": "SO-MAO",
+    "level": "8",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              42.74
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              44.24
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              45.79
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              47.39
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              43.94
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              45.48
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              47.07
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              48.72
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              44.91
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              46.48
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              48.11
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              49.79
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              45.58
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              47.18
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              48.83
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              50.54
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              46.26
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              47.89
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              49.56
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              51.3
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              48.48
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              50.19
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              51.93
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              53.76
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              49.93
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              51.7
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              53.49
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              55.37
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              51.93
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              53.77
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              55.63
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              57.58
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              53.1
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              54.99
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              56.88
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              58.88
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              54.16
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              56.09
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              58.02
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              60.06
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "SO-MAO-9@hourly",
+    "group": "SO-MAO",
+    "level": "9",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              46.01
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              47.63
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              49.29
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              51.02
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              47.3
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              48.96
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              50.67
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              52.45
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              48.34
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              50.04
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              51.78
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              53.6
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              49.07
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              50.79
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              52.56
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              54.4
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              49.81
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              51.55
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              53.35
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              55.22
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              52.19
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              54.02
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              55.91
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              57.86
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              53.76
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              55.64
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              57.59
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              59.6
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              55.91
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              57.87
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              59.89
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              61.98
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              57.17
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              59.18
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              61.24
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              63.38
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              58.31
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              60.36
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              62.46
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              64.65
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "SO-MAO-TO@hourly",
+    "group": "SO-MAO",
+    "level": "TO",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              26.04
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              26.95
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              27.88
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              28.87
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              29.89
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              26.77
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              27.7
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              28.66
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              29.68
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              30.73
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              27.36
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              28.31
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              29.29
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              30.33
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              31.41
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              27.77
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              28.73
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              29.73
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              30.78
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              31.88
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              28.19
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              29.16
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              30.18
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              31.24
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              32.36
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              29.54
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              30.56
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              31.63
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              32.73
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              33.91
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              30.43
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              31.48
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              32.58
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              33.71
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              34.93
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              31.65
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              32.74
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              33.88
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              35.06
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              36.33
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              32.36
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              33.47
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              34.65
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              35.85
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              37.15
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              33.01
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              34.14
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              35.34
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              36.57
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              37.89
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "SO-RAD-1@hourly",
+    "group": "SO-RAD",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              32.3
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              33.43
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              34.61
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              35.82
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              33.2
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              34.37
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              35.58
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              36.82
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              33.93
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              35.13
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              36.36
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              37.63
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              34.44
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              35.66
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              36.91
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              38.19
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              34.96
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              36.19
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              37.46
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              38.76
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              36.63
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              37.93
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              39.25
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              40.62
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              37.73
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              39.07
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              40.43
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              41.84
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.24
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              40.63
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              42.05
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              43.51
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.12
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              41.54
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              43.0
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              44.49
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.92
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              42.37
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              43.86
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              45.38
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "SO-RAD-2@hourly",
+    "group": "SO-RAD",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              34.14
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              35.32
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              36.57
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              37.84
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              35.1
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              36.31
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              37.59
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              38.9
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              35.87
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              37.11
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              38.42
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              39.76
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              36.41
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              37.67
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              39.0
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              40.36
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              36.96
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              38.24
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              39.59
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              40.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              38.73
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              40.07
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              41.49
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              42.93
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.89
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              41.27
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              42.73
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              44.22
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              41.49
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              42.92
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              44.44
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              45.99
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              42.43
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              43.89
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              45.44
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              47.03
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              43.28
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              44.77
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              46.35
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              47.97
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "SO-RAD-3@hourly",
+    "group": "SO-RAD",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              35.82
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              37.05
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              38.35
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              39.69
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2018-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              36.82
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              38.09
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              39.42
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              40.8
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2019-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              37.63
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              38.93
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              40.29
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              41.7
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              38.19
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              39.51
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              40.89
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              42.33
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              38.76
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              40.1
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              41.5
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              42.96
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.62
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              42.02
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              43.49
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              45.02
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              41.84
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              43.28
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              44.79
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              46.37
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-12-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              43.51
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              45.01
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              46.58
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              48.22
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              44.49
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              46.02
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              47.63
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              49.3
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              45.38
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              46.94
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              48.58
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              50.29
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ships' Officers",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/so.html"
+    },
+    "payType": "hourly"
+  }
+]

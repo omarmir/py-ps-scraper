@@ -1,0 +1,8054 @@
+[
+  {
+    "grpLvl": "EL-1",
+    "group": "EL",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              37807
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              39565
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              41339
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              43107
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              44879
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              46645
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              48410
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              50174
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              51936
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              55646
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39619
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              41462
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              43321
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              45174
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              47031
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              48881
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              50730
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              52579
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              54426
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              58314
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              41012
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              42920
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              44844
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              46762
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              48684
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              50599
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              52513
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              54427
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              56339
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              60363
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              41937
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              43887
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              45855
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              47816
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              49782
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              51740
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              53697
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              55655
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              57610
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              61724
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              42776
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              44765
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              46772
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              48772
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              50778
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              52775
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              54771
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              56768
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              58762
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              62958
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "EL-1@daily",
+    "group": "EL",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              144.92
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              151.66
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              158.46
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              165.24
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              172.03
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              178.8
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              185.56
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              192.33
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              199.08
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              213.3
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              151.87
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              158.93
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              166.06
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              173.16
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              180.28
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              187.37
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              194.46
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              201.54
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              208.62
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              223.53
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              157.21
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              164.52
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              171.9
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              179.25
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              186.61
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              193.96
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              201.29
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              208.63
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              215.96
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              231.38
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              160.75
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              168.23
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              175.77
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              183.29
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              190.82
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              198.33
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              205.83
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              213.34
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              220.83
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              236.6
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              163.97
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              171.59
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              179.29
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              186.95
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              194.64
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              202.3
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              209.95
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              217.6
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              225.25
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              241.33
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "daily"
+  },
+  {
+    "grpLvl": "EL-1@hourly",
+    "group": "EL",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              19.32
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              20.22
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              21.13
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              22.03
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              22.94
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              23.84
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              24.74
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              25.64
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              26.54
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              28.44
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              20.25
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              21.19
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              22.14
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              23.09
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              24.04
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              24.98
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              25.93
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              26.87
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              27.82
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              29.8
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              20.96
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              21.94
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              22.92
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              23.9
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              24.88
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              25.86
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              26.84
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              27.82
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              28.79
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              30.85
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              21.43
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              22.43
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              23.44
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              24.44
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              25.44
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              26.44
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              27.44
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              28.44
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              29.44
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              31.55
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              21.86
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              22.88
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              23.9
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              24.93
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              25.95
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              26.97
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              27.99
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              29.01
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              30.03
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              32.18
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "EL-1@weekly",
+    "group": "EL",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              724.61
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              758.3
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              792.3
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              826.18
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              860.15
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              893.99
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              927.82
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              961.63
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              995.4
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              1066.51
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              759.33
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              794.66
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              830.29
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              865.8
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              901.39
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              936.85
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              972.29
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              1007.72
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              1043.12
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              1117.64
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              786.03
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              822.6
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              859.48
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              896.24
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              933.07
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              969.78
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              1006.46
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              1043.14
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              1079.79
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              1156.91
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              803.76
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              841.13
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              878.85
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              916.44
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              954.12
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              991.64
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              1029.15
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              1066.68
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              1104.15
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              1183.0
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              819.84
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              857.96
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              896.43
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              934.76
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              973.21
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              1011.48
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              1049.74
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              1088.01
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              1126.23
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              1206.65
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "weekly"
+  },
+  {
+    "grpLvl": "EL-2",
+    "group": "EL",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              52001
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              53993
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              58301
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              62609
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              67084
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              54494
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              56582
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              61096
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              65610
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              70300
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              56410
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              58570
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              63244
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              67916
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              72771
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              57682
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              59890
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              64670
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              69447
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              74412
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              58836
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              61088
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              65963
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              70836
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              75900
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "EL-2@daily",
+    "group": "EL",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              199.33
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              206.96
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              223.48
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              239.99
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              257.15
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              208.89
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              216.89
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              234.19
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              251.49
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              269.47
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              216.23
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              224.51
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              242.43
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              260.33
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              278.94
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              221.11
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              229.57
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              247.89
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              266.2
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              285.23
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              225.53
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              234.16
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              252.85
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              271.53
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              290.94
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "daily"
+  },
+  {
+    "grpLvl": "EL-2@hourly",
+    "group": "EL",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              26.58
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              27.6
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              29.8
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              32.0
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              34.29
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              27.85
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              28.92
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              31.23
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              33.53
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              35.93
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              28.83
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              29.93
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              32.32
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              34.71
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              37.19
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              29.48
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              30.61
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              33.05
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              35.49
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              38.03
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              30.07
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              31.22
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              33.71
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              36.2
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              38.79
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "EL-2@weekly",
+    "group": "EL",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              996.65
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1034.82
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1117.39
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1199.96
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              1285.73
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1044.43
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1084.44
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1170.96
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1257.47
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              1347.36
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1081.15
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1122.55
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1212.13
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1301.67
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              1394.72
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1105.53
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1147.85
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1239.46
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1331.01
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              1426.17
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1127.64
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1170.81
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1264.24
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1357.64
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              1454.69
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "weekly"
+  },
+  {
+    "grpLvl": "EL-3",
+    "group": "EL",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              57759
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              59965
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              64740
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              69521
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              74487
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              60528
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              62840
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              67844
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              72853
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              78058
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              62656
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              65049
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              70228
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              75414
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              80802
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              64069
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              66516
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              71812
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              77114
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              82624
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              65350
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              67846
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              73248
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              78656
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              84276
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "EL-3@daily",
+    "group": "EL",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              221.4
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              229.86
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              248.16
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              266.49
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              285.52
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              232.01
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              240.88
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              260.06
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              279.26
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              299.21
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              240.17
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              249.34
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              269.2
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              289.08
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              309.73
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              245.59
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              254.97
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              275.27
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              295.59
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              316.71
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              250.5
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              260.07
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              280.77
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              301.5
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              323.05
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "daily"
+  },
+  {
+    "grpLvl": "EL-3@hourly",
+    "group": "EL",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              29.52
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              30.65
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              33.09
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              35.53
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              38.07
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              30.94
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              32.12
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              34.67
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              37.23
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              39.89
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              32.02
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              33.25
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              35.89
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              38.54
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              41.3
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              32.75
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              34.0
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              36.7
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              39.41
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              42.23
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              33.4
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              34.68
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              37.44
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              40.2
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              43.07
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "EL-3@weekly",
+    "group": "EL",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1107.0
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1149.28
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1240.8
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1332.43
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              1427.61
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1160.07
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1204.39
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1300.29
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1396.29
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              1496.05
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1200.86
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1246.72
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1345.98
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1445.38
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              1548.64
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1227.94
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1274.84
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1376.34
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1477.96
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              1583.56
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1252.49
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1300.33
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1403.86
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1507.51
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              1615.23
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "weekly"
+  },
+  {
+    "grpLvl": "EL-4",
+    "group": "EL",
+    "level": "4",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              64387
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              66854
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              69336
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              71815
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              74688
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              79715
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              67474
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              70059
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              72660
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              75258
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              78268
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              83536
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              69845
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              72522
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              75214
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              77904
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              81019
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              86472
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              71420
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              74157
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              76910
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              79661
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              82846
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              88422
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              72848
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              75640
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              78448
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              81254
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              84503
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              90190
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "EL-4@daily",
+    "group": "EL",
+    "level": "4",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              246.81
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              256.26
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              265.78
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              275.28
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              286.29
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              305.56
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              258.64
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              268.55
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              278.52
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              288.48
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              300.02
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              320.21
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              267.73
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              277.99
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              288.31
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              298.62
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              310.56
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              331.46
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              273.77
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              284.26
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              294.81
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              305.35
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              317.56
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              338.94
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              279.24
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              289.94
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              300.71
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              311.46
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              323.92
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              345.71
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "daily"
+  },
+  {
+    "grpLvl": "EL-4@hourly",
+    "group": "EL",
+    "level": "4",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              32.91
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              34.17
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              35.44
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              36.7
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              38.17
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              40.74
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              34.49
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              35.81
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              37.14
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              38.46
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              40.0
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              42.69
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              35.7
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              37.07
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              38.44
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              39.82
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              41.41
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              44.19
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              36.5
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              37.9
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              39.31
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              40.71
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              42.34
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              45.19
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              37.23
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              38.66
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              40.09
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              41.53
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              43.19
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              46.1
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "EL-4@weekly",
+    "group": "EL",
+    "level": "4",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1234.03
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1281.32
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1328.89
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1376.4
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              1431.46
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              1527.81
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1293.2
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1342.74
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1392.59
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1442.39
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              1500.08
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              1601.04
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1338.64
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1389.95
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1441.54
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1493.1
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              1552.8
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              1657.31
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1368.83
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1421.29
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1474.05
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1526.77
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              1587.82
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              1694.69
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1396.2
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1449.71
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1503.53
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1557.31
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              1619.58
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              1728.57
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "weekly"
+  },
+  {
+    "grpLvl": "EL-5",
+    "group": "EL",
+    "level": "5",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              71390
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              74151
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              76899
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              79647
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              82835
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              88411
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              74813
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              77705
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              80585
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              83465
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              86806
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              92649
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              77442
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              80436
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              83418
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              86399
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              89857
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              95905
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              79188
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              82250
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              85299
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              88347
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              91883
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              98068
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              80772
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              83895
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              87005
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              90114
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              93721
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              100029
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "EL-5@daily",
+    "group": "EL",
+    "level": "5",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              273.65
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              284.23
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              294.77
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              305.3
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              317.52
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              338.9
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              286.77
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              297.86
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              308.9
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              319.94
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              332.74
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              355.14
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              296.85
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              308.33
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              319.76
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              331.18
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              344.44
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              367.62
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              303.54
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              315.28
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              326.97
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              338.65
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              352.2
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              375.91
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              309.61
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              321.58
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              333.51
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              345.42
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              359.25
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              383.43
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "daily"
+  },
+  {
+    "grpLvl": "EL-5@hourly",
+    "group": "EL",
+    "level": "5",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              36.49
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              37.9
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              39.3
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              40.71
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              42.34
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              45.19
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              38.24
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              39.71
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              41.19
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              42.66
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              44.37
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              47.35
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.58
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              41.11
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              42.63
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              44.16
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              45.93
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              49.02
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.47
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              42.04
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              43.6
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              45.15
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              46.96
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              50.12
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              41.28
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              42.88
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              44.47
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              46.06
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              47.9
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              51.12
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "EL-5@weekly",
+    "group": "EL",
+    "level": "5",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1368.25
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1421.17
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1473.84
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1526.51
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              1587.61
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              1694.48
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1433.86
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1489.29
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1544.48
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1599.68
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              1663.72
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              1775.7
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1484.25
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1541.63
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1598.78
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1655.91
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              1722.19
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              1838.11
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1517.71
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1576.4
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1634.83
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1693.25
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              1761.02
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              1879.56
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1548.07
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1607.92
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1667.53
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1727.12
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              1796.25
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              1917.15
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "weekly"
+  },
+  {
+    "grpLvl": "EL-6",
+    "group": "EL",
+    "level": "6",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              78787
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              81842
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              84899
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              87957
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              91477
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              97637
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              82564
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              85765
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              88968
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              92173
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              95862
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              102317
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              85466
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              88780
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              92095
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              95413
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              99232
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              105914
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              87393
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              90782
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              94172
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              97564
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              101470
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              108302
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              89141
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              92598
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              96055
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              99515
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              103499
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              110468
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "EL-6@daily",
+    "group": "EL",
+    "level": "6",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              302.0
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              313.72
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              325.43
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              337.16
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              350.65
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              374.26
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              316.48
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              328.75
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              341.03
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              353.32
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              367.46
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              392.2
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              327.61
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              340.31
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              353.02
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              365.74
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              380.37
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              405.99
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              334.99
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              347.98
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              360.98
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              373.98
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              388.95
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              415.14
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              341.69
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              354.94
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              368.2
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              381.46
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              396.73
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              423.44
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "daily"
+  },
+  {
+    "grpLvl": "EL-6@hourly",
+    "group": "EL",
+    "level": "6",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.27
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              41.83
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              43.39
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              44.95
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              46.75
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              49.9
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              42.2
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              43.83
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              45.47
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              47.11
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              48.99
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              52.29
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              43.68
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              45.37
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              47.07
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              48.76
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              50.72
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              54.13
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              44.67
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              46.4
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              48.13
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              49.86
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              51.86
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              55.35
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              45.56
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              47.33
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              49.09
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              50.86
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              52.9
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              56.46
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "EL-6@weekly",
+    "group": "EL",
+    "level": "6",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1510.02
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1568.58
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1627.17
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1685.78
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              1753.24
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              1871.3
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1582.41
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1643.76
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1705.15
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1766.58
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              1837.28
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              1961.0
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1638.03
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1701.55
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1765.08
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1828.68
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              1901.87
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2029.94
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1674.97
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1739.92
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1804.89
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1869.9
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              1944.76
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2075.71
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1708.47
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1774.72
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1840.98
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1907.29
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              1983.65
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2117.22
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "weekly"
+  },
+  {
+    "grpLvl": "EL-7",
+    "group": "EL",
+    "level": "7",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              86319
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              89510
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              92711
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              95905
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              99743
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              106455
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              90457
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              93801
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              97155
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              100503
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              104524
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              111558
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              93637
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              97098
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              100570
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              104036
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              108198
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              115480
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              95749
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              99288
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              102837
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              106382
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              110638
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              118084
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              97664
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              101274
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              104894
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              108510
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              112851
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              120446
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "EL-7@daily",
+    "group": "EL",
+    "level": "7",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              330.88
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              343.11
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              355.38
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              367.62
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              382.33
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              408.06
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              346.74
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              359.56
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              372.41
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              385.25
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              400.66
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              427.62
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              358.93
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              372.19
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              385.5
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              398.79
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              414.74
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              442.66
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              367.02
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              380.59
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              394.19
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              407.78
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              424.1
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              452.64
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              374.36
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              388.2
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              402.08
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              415.94
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              432.58
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              461.69
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "daily"
+  },
+  {
+    "grpLvl": "EL-7@hourly",
+    "group": "EL",
+    "level": "7",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              44.12
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              45.75
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              47.38
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              49.02
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              50.98
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              54.41
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              46.23
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              47.94
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              49.65
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              51.37
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              53.42
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              57.02
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              47.86
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              49.63
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              51.4
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              53.17
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              55.3
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              59.02
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              48.94
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              50.75
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              52.56
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              54.37
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              56.55
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              60.35
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              49.92
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              51.76
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              53.61
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              55.46
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              57.68
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              61.56
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "EL-7@weekly",
+    "group": "EL",
+    "level": "7",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1654.38
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1715.54
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1776.89
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1838.11
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              1911.66
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2040.31
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1733.69
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1797.78
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1862.06
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1926.23
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2003.3
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2138.11
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1794.64
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1860.97
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1927.51
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1993.94
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2073.71
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2213.28
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1835.12
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1902.94
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1970.96
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2038.91
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2120.48
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2263.19
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1871.82
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1941.01
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              2010.39
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2079.69
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2162.89
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2308.46
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "weekly"
+  },
+  {
+    "grpLvl": "EL-8",
+    "group": "EL",
+    "level": "8",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              93181
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              96456
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              99730
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              103000
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              107122
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              114329
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              97648
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              101080
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              104511
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              107938
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              112257
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              119810
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              101080
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              104633
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              108184
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              111732
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              116203
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              124021
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              103360
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              106993
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              110624
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              114252
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              118823
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              126817
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              105427
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              109133
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              112836
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              116537
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              121199
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              129353
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "EL-8@daily",
+    "group": "EL",
+    "level": "8",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              357.18
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              369.73
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              382.28
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              394.82
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              410.62
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              438.24
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              374.3
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              387.46
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              400.61
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              413.75
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              430.3
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              459.25
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              387.46
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              401.08
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              414.69
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              428.29
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              445.43
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              475.39
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              396.2
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              410.12
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              424.04
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              437.95
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              455.47
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              486.11
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              404.12
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              418.33
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              432.52
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              446.71
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              464.58
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              495.83
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "daily"
+  },
+  {
+    "grpLvl": "EL-8@hourly",
+    "group": "EL",
+    "level": "8",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              47.62
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              49.3
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              50.97
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              52.64
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              54.75
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              58.43
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              49.91
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              51.66
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              53.41
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              55.17
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              57.37
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              61.23
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              51.66
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              53.48
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              55.29
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              57.11
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              59.39
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              63.39
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              52.83
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              54.68
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              56.54
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              58.39
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              60.73
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              64.81
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              53.88
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              55.78
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              57.67
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              59.56
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              61.94
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              66.11
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "EL-8@weekly",
+    "group": "EL",
+    "level": "8",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1785.9
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1848.67
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              1911.42
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              1974.09
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2053.09
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2191.22
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1871.51
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1937.29
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              2003.05
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2068.73
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2151.51
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2296.27
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1937.29
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              2005.39
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              2073.44
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2141.44
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2227.14
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2376.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1980.99
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              2050.62
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              2120.21
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2189.74
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2277.35
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2430.56
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              2020.6
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              2091.63
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              2162.6
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2233.54
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2322.89
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2479.17
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "weekly"
+  },
+  {
+    "grpLvl": "EL-9",
+    "group": "EL",
+    "level": "9",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              100060
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              103611
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              107162
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              110711
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              115138
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              122889
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              104857
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              108577
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              112299
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              116018
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              120658
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              128780
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              108543
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              112393
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              116246
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              120096
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              124899
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              133306
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              110991
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              114928
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              118867
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              122804
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              127715
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              136312
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              113211
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              117227
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              121244
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              125260
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              130269
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              139038
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "EL-9@daily",
+    "group": "EL",
+    "level": "9",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              383.55
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              397.16
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              410.77
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              424.38
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              441.34
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              471.06
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              401.94
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              416.2
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              430.46
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              444.72
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              462.5
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              493.64
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              416.06
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              430.82
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              445.59
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              460.35
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              478.76
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              510.99
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              425.45
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              440.54
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              455.64
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              470.73
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              489.55
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              522.51
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              433.96
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              449.35
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              464.75
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              480.14
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              499.34
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              532.96
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "daily"
+  },
+  {
+    "grpLvl": "EL-9@hourly",
+    "group": "EL",
+    "level": "9",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              51.14
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              52.95
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              54.77
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              56.58
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              58.85
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              62.81
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              53.59
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              55.49
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              57.39
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              59.3
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              61.67
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              65.82
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              55.48
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              57.44
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              59.41
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              61.38
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              63.83
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              68.13
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              56.73
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              58.74
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              60.75
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              62.76
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              65.27
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              69.67
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              57.86
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              59.91
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              61.97
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              64.02
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              66.58
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              71.06
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "hourly"
+  },
+  {
+    "grpLvl": "EL-9@weekly",
+    "group": "EL",
+    "level": "9",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1917.74
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              1985.8
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              2053.86
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2121.88
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2206.72
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2355.28
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              2009.68
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              2080.98
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              2152.31
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2223.59
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2312.52
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2468.18
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              2080.32
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              2154.11
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              2227.96
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2301.75
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2393.8
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2554.93
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              2127.24
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              2202.7
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              2278.19
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2353.65
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2447.77
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2612.54
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-09-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              2169.79
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              2246.76
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              2323.75
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              2400.72
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              2496.72
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              2664.79
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Electronics",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/el.html"
+    },
+    "payType": "weekly"
+  }
+]

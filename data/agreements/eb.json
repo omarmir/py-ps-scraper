@@ -1,0 +1,4229 @@
+[
+  {
+    "grpLvl": "EDS-1",
+    "group": "EDS",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              70954
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              74658
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              77339
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              80017
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              82698
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              72018
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              75778
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              78499
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              81217
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              83938
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              75471
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              79410
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              82262
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              85111
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              87962
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              78124
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              82201
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              85154
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              88102
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              91054
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              79885
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              84055
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              87074
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              90089
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              93107
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Education and Library Science",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/eb.html"
+    }
+  },
+  {
+    "grpLvl": "EDS-2",
+    "group": "EDS",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              85010
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              87680
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              90327
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              86285
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              88995
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              91682
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              90421
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              93261
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              96077
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              93600
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              96539
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              99454
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              95711
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              98716
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              101697
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Education and Library Science",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/eb.html"
+    }
+  },
+  {
+    "grpLvl": "EDS-3",
+    "group": "EDS",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              90726
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              93591
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              96441
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              92087
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              94995
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              97888
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              96501
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              99549
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              102580
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              99893
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              103048
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              106185
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              102146
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              105372
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              108580
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Education and Library Science",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/eb.html"
+    }
+  },
+  {
+    "grpLvl": "EDS-4",
+    "group": "EDS",
+    "level": "4",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              97284
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              100230
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              103172
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              98743
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              101733
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              104720
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              103476
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              106610
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              109740
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              107113
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              110357
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              113597
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              109528
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              112845
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              116159
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Education and Library Science",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/eb.html"
+    }
+  },
+  {
+    "grpLvl": "EDS-5",
+    "group": "EDS",
+    "level": "5",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              104862
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              108085
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              111273
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              106435
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              109706
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              112942
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              111537
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              114965
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              118356
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              115457
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              119006
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              122517
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              118060
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              121689
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              125279
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Education and Library Science",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/eb.html"
+    }
+  },
+  {
+    "grpLvl": "LAI-1",
+    "group": "LAI",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              63010
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              64403
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              65782
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              67152
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              68531
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              69918
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              71287
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              63955
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              65369
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              66769
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              68159
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              69559
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              70967
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              72356
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              67020
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              68503
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              69970
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              71427
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              72894
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              74369
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              75824
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              71102
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              72675
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              74231
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              75777
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              77333
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              78898
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              80442
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              72705
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              74314
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              75905
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              77486
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              79077
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              80677
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              82256
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Education and Library Science",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/eb.html"
+    }
+  },
+  {
+    "grpLvl": "LS-1",
+    "group": "LS",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              64907
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              66917
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              68929
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              70940
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              72947
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              74959
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              76970
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              78982
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              65881
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              67921
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              69963
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              72004
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              74041
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              76083
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              78125
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              80167
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              69039
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              71177
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              73317
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              75456
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              77590
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              79730
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              81870
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              84010
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              71821
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              74045
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              76272
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              78497
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              80717
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              82943
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              85169
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              87395
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              73440
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              75715
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              77991
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              80267
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              82537
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              84814
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              87089
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              89366
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Education and Library Science",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/eb.html"
+    }
+  },
+  {
+    "grpLvl": "LS-2",
+    "group": "LS",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              71775
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              74142
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              76511
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              78870
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              81385
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              72852
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              75254
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              77659
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              80053
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              82606
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              76345
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              78862
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              81382
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              83891
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              86566
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              79421
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              82040
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              84661
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              87272
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              90055
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              81212
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              83890
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              86570
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              89240
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              92086
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Education and Library Science",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/eb.html"
+    }
+  },
+  {
+    "grpLvl": "LS-3",
+    "group": "LS",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              83960
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              86661
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              89352
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              92051
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              94746
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              85219
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              87961
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              90692
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              93432
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              96167
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              89305
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              92178
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              95039
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              97911
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              100777
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              92904
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              95892
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              98869
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              101856
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              104838
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              94999
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              98055
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              101098
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              104153
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              107202
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Education and Library Science",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/eb.html"
+    }
+  },
+  {
+    "grpLvl": "LS-4",
+    "group": "LS",
+    "level": "4",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              86925
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              90062
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              93186
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              96328
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              99463
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              102598
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              88229
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              91413
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              94584
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              97773
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              100955
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              104137
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              92458
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              95795
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              99118
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              102460
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              105794
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              109129
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              96184
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              99656
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              103113
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              106589
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              110058
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              113527
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              98353
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              101903
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              105438
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              108993
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              112540
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              116087
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Education and Library Science",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/eb.html"
+    }
+  },
+  {
+    "grpLvl": "LS-5",
+    "group": "LS",
+    "level": "5",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              104809
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              108238
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              111662
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              115088
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              118517
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              121947
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              106381
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              109862
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              113337
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              116814
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              120295
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              123776
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              111480
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              115128
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              118770
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              122413
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              126061
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              129709
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              115972
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              119768
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              123556
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              127346
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              131141
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              134936
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              118587
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              122468
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              126342
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              130218
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              134098
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              137979
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Education and Library Science",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/eb.html"
+    }
+  },
+  {
+    "grpLvl": "Level 1",
+    "group": "Level 1",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              97157
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              92873
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              89300
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              87158
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              101045
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              96586
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              92873
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              90642
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              105087
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              100451
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              96586
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              94268
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              109288
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              104468
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              100451
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              98039
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              98614
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              94266
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              90640
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              88465
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              102561
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              98035
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              94266
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              92002
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              106663
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              101958
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              98035
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              95682
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              110927
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              106035
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              101958
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              99510
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              103341
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              98785
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              94985
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              92706
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              107478
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              102734
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              98785
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              96412
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              111776
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              106846
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              102734
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              100269
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              116244
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              111118
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              106846
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              104280
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              106973
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              102258
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              98324
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              95964
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              111256
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              106345
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              102258
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              99801
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              115705
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              110601
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              106345
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              103793
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              120330
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              115024
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              110601
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              107945
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              10
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              106973
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              98324
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              111256
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              102258
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              115705
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              106345
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              120330
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              110601
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              109385
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              100541
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              113765
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              104564
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              118314
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              108743
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              123044
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              113095
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Education and Library Science",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/eb.html"
+    }
+  },
+  {
+    "grpLvl": "Level 2",
+    "group": "Level 2",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              110019
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              100733
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              102158
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              96444
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              114418
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              104759
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              106244
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              100303
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              118995
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              108949
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              110496
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              104312
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              123755
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              113309
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              114916
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              108488
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              111669
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              102244
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              103690
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              97891
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              116134
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              106330
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              107838
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              101808
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              120780
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              110583
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              112153
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              105877
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              125611
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              115009
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              116640
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              110115
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              117022
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              107146
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              108660
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              102583
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              121701
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              111428
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              113007
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              106688
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              126570
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              115884
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              117529
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              110953
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              131632
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              120522
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              122231
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              115394
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              121136
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              110912
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              112480
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              106188
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              125979
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              115345
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              116979
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              110438
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              131019
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              119958
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              121660
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              114853
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              136259
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              124759
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              126527
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              119450
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              10
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              121136
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              112480
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              125979
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              116979
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              131019
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              121660
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              136259
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              126527
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              123868
+            ]
+          },
+          {
+            "step": 1,
+            "amount": [
+              115017
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              128820
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              119617
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              133973
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              124403
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              139331
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              129381
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Education and Library Science",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/eb.html"
+    }
+  },
+  {
+    "grpLvl": "PEI-1",
+    "group": "PEI",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              46986
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              48377
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              49755
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              51125
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              52506
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              53890
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              55264
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              47691
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              49103
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              50501
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              51892
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              53294
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              54698
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              56093
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              49977
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              51457
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              52922
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              54379
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              55848
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              57320
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              58782
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              53020
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              54591
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              56145
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              57690
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              59249
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              60811
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              62361
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              54215
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              55822
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              57411
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              58991
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              60585
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              62182
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              63767
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Education and Library Science",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/eb.html"
+    }
+  },
+  {
+    "grpLvl": "PEI-2",
+    "group": "PEI",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              79862
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              81615
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              83382
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              85150
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              86915
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              88671
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              81060
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              82839
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              84633
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              86427
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              88219
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              90001
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              84946
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              86810
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              88690
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              90570
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              92448
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              94315
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              90119
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              92096
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              94092
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              96086
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              98078
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              100058
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              92151
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              94173
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              96214
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              98253
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              100290
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              102314
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Education and Library Science",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/eb.html"
+    }
+  },
+  {
+    "grpLvl": "SP-EDU-1",
+    "group": "SP-EDU",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              70954
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              74658
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              77339
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              80017
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              82698
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              72018
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              75778
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              78499
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              81217
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              83938
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              75471
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              79410
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              82262
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              85111
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              87962
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              78124
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              82201
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              85154
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              88102
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              91054
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              79885
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              84055
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              87074
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              90089
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              93107
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Education and Library Science",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/eb.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SP-EDU-2",
+    "group": "SP-EDU",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              85010
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              87680
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              90327
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              86285
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              88995
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              91682
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              90421
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              93261
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              96077
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              93600
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              96539
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              99454
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              95711
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              98716
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              101697
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Education and Library Science",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/eb.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SP-EDU-3",
+    "group": "SP-EDU",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              90726
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              93591
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              96441
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              92087
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              94995
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              97888
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              96501
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              99549
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              102580
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              99893
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              103048
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              106185
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              102146
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              105372
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              108580
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Education and Library Science",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/eb.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SP-EDU-4",
+    "group": "SP-EDU",
+    "level": "4",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              97284
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              100230
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              103172
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              98743
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              101733
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              104720
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              103476
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              106610
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              109740
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              107113
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              110357
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              113597
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              109528
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              112845
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              116159
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Education and Library Science",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/eb.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SP-EDU-5",
+    "group": "SP-EDU",
+    "level": "5",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              104862
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              108085
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              111273
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              106435
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              109706
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              112942
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              111537
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              114965
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              118356
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              115457
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              119006
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              122517
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              118060
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              121689
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              125279
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Education and Library Science",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/eb.html"
+    },
+    "payType": "annual"
+  }
+]

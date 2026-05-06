@@ -1,0 +1,1406 @@
+[
+  {
+    "grpLvl": "UT-1: , Steps 1 to 8",
+    "group": "UT-1: , Steps 1 to 8",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              41507
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              44625
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              47743
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              50862
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              53979
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              57098
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              60216
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              63338
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              44270
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              47596
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              50923
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              54249
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              57573
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              60899
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              64226
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              67555
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              44934
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              48310
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              51687
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              55063
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              58437
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              61812
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              65189
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              68568
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "University Teaching",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ut.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "UT-1: , Steps 9 to 15",
+    "group": "UT-1: , Steps 9 to 15",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-07-01",
+        "rateStepsList": [
+          {
+            "step": 9,
+            "amount": [
+              66454
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              69571
+            ]
+          },
+          {
+            "step": 11,
+            "amount": [
+              72693
+            ]
+          },
+          {
+            "step": 12,
+            "amount": [
+              75810
+            ]
+          },
+          {
+            "step": 13,
+            "amount": [
+              78927
+            ]
+          },
+          {
+            "step": 14,
+            "amount": [
+              82046
+            ]
+          },
+          {
+            "step": 15,
+            "amount": [
+              85163
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 9,
+            "amount": [
+              70879
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              74204
+            ]
+          },
+          {
+            "step": 11,
+            "amount": [
+              77534
+            ]
+          },
+          {
+            "step": 12,
+            "amount": [
+              80857
+            ]
+          },
+          {
+            "step": 13,
+            "amount": [
+              84181
+            ]
+          },
+          {
+            "step": 14,
+            "amount": [
+              87509
+            ]
+          },
+          {
+            "step": 15,
+            "amount": [
+              90833
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 9,
+            "amount": [
+              71942
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              75317
+            ]
+          },
+          {
+            "step": 11,
+            "amount": [
+              78697
+            ]
+          },
+          {
+            "step": 12,
+            "amount": [
+              82070
+            ]
+          },
+          {
+            "step": 13,
+            "amount": [
+              85444
+            ]
+          },
+          {
+            "step": 14,
+            "amount": [
+              88822
+            ]
+          },
+          {
+            "step": 15,
+            "amount": [
+              92195
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "University Teaching",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ut.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "UT-2: , Steps 1 to 8",
+    "group": "UT-2: , Steps 1 to 8",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              59059
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              62163
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              65267
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              68370
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              71472
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              74578
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              77679
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              80782
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              62991
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              66302
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              69613
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              72923
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              76232
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              79545
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              82851
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              86160
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              63936
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              67297
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              70657
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              74017
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              77375
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              80738
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              84094
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              87452
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "University Teaching",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ut.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "UT-2: , Steps 9 to 16",
+    "group": "UT-2: , Steps 9 to 16",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-07-01",
+        "rateStepsList": [
+          {
+            "step": 9,
+            "amount": [
+              83885
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              86988
+            ]
+          },
+          {
+            "step": 11,
+            "amount": [
+              90094
+            ]
+          },
+          {
+            "step": 12,
+            "amount": [
+              93195
+            ]
+          },
+          {
+            "step": 13,
+            "amount": [
+              96299
+            ]
+          },
+          {
+            "step": 14,
+            "amount": [
+              99400
+            ]
+          },
+          {
+            "step": 15,
+            "amount": [
+              102503
+            ]
+          },
+          {
+            "step": 16,
+            "amount": [
+              105608
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 9,
+            "amount": [
+              89469
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              92780
+            ]
+          },
+          {
+            "step": 11,
+            "amount": [
+              96092
+            ]
+          },
+          {
+            "step": 12,
+            "amount": [
+              99401
+            ]
+          },
+          {
+            "step": 13,
+            "amount": [
+              102710
+            ]
+          },
+          {
+            "step": 14,
+            "amount": [
+              106018
+            ]
+          },
+          {
+            "step": 15,
+            "amount": [
+              109328
+            ]
+          },
+          {
+            "step": 16,
+            "amount": [
+              112640
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 9,
+            "amount": [
+              90811
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              94172
+            ]
+          },
+          {
+            "step": 11,
+            "amount": [
+              97533
+            ]
+          },
+          {
+            "step": 12,
+            "amount": [
+              100892
+            ]
+          },
+          {
+            "step": 13,
+            "amount": [
+              104251
+            ]
+          },
+          {
+            "step": 14,
+            "amount": [
+              107608
+            ]
+          },
+          {
+            "step": 15,
+            "amount": [
+              110968
+            ]
+          },
+          {
+            "step": 16,
+            "amount": [
+              114330
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "University Teaching",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ut.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "UT-3: , Steps 1 to 8",
+    "group": "UT-3: , Steps 1 to 8",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              80908
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              84041
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              87174
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              90308
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              93443
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              96575
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              99710
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              102841
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              86294
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              89637
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              92977
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              96321
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              99665
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              103006
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              106349
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              109688
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              87588
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              90982
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              94372
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              97766
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              101160
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              104551
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              107944
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              111333
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "University Teaching",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ut.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "UT-3: , Steps 9 to 16",
+    "group": "UT-3: , Steps 9 to 16",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-07-01",
+        "rateStepsList": [
+          {
+            "step": 9,
+            "amount": [
+              105973
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              109107
+            ]
+          },
+          {
+            "step": 11,
+            "amount": [
+              112242
+            ]
+          },
+          {
+            "step": 12,
+            "amount": [
+              115376
+            ]
+          },
+          {
+            "step": 13,
+            "amount": [
+              118510
+            ]
+          },
+          {
+            "step": 14,
+            "amount": [
+              121644
+            ]
+          },
+          {
+            "step": 15,
+            "amount": [
+              124776
+            ]
+          },
+          {
+            "step": 16,
+            "amount": [
+              127910
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 9,
+            "amount": [
+              113029
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              116372
+            ]
+          },
+          {
+            "step": 11,
+            "amount": [
+              119716
+            ]
+          },
+          {
+            "step": 12,
+            "amount": [
+              123058
+            ]
+          },
+          {
+            "step": 13,
+            "amount": [
+              126401
+            ]
+          },
+          {
+            "step": 14,
+            "amount": [
+              129742
+            ]
+          },
+          {
+            "step": 15,
+            "amount": [
+              133084
+            ]
+          },
+          {
+            "step": 16,
+            "amount": [
+              136427
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 9,
+            "amount": [
+              114724
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              118118
+            ]
+          },
+          {
+            "step": 11,
+            "amount": [
+              121512
+            ]
+          },
+          {
+            "step": 12,
+            "amount": [
+              124904
+            ]
+          },
+          {
+            "step": 13,
+            "amount": [
+              128297
+            ]
+          },
+          {
+            "step": 14,
+            "amount": [
+              131688
+            ]
+          },
+          {
+            "step": 15,
+            "amount": [
+              135080
+            ]
+          },
+          {
+            "step": 16,
+            "amount": [
+              138473
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "University Teaching",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ut.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "UT-4: , Steps 1 to 10",
+    "group": "UT-4: , Steps 1 to 10",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              96100
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              99234
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              102367
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              105500
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              108634
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              111769
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              114900
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              118032
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              121171
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              124303
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              102499
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              105842
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              109184
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              112525
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              115866
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              119211
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              122549
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              125891
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              129239
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              132579
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              104036
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              107430
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              110822
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              114213
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              117604
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              120999
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              124387
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              127779
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              131178
+            ]
+          },
+          {
+            "step": 10,
+            "amount": [
+              134568
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "University Teaching",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ut.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "UT-4: , Steps 11 to 19",
+    "group": "UT-4: , Steps 11 to 19",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2017-07-01",
+        "rateStepsList": [
+          {
+            "step": 11,
+            "amount": [
+              127436
+            ]
+          },
+          {
+            "step": 12,
+            "amount": [
+              130570
+            ]
+          },
+          {
+            "step": 13,
+            "amount": [
+              133702
+            ]
+          },
+          {
+            "step": 14,
+            "amount": [
+              136836
+            ]
+          },
+          {
+            "step": 15,
+            "amount": [
+              139969
+            ]
+          },
+          {
+            "step": 16,
+            "amount": [
+              143104
+            ]
+          },
+          {
+            "step": 17,
+            "amount": [
+              146237
+            ]
+          },
+          {
+            "step": 18,
+            "amount": [
+              149369
+            ]
+          },
+          {
+            "step": 19,
+            "amount": [
+              152505
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2020-07-01",
+        "rateStepsList": [
+          {
+            "step": 11,
+            "amount": [
+              135921
+            ]
+          },
+          {
+            "step": 12,
+            "amount": [
+              139263
+            ]
+          },
+          {
+            "step": 13,
+            "amount": [
+              142604
+            ]
+          },
+          {
+            "step": 14,
+            "amount": [
+              145947
+            ]
+          },
+          {
+            "step": 15,
+            "amount": [
+              149289
+            ]
+          },
+          {
+            "step": 16,
+            "amount": [
+              152633
+            ]
+          },
+          {
+            "step": 17,
+            "amount": [
+              155974
+            ]
+          },
+          {
+            "step": 18,
+            "amount": [
+              159314
+            ]
+          },
+          {
+            "step": 19,
+            "amount": [
+              162660
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2021-07-01",
+        "rateStepsList": [
+          {
+            "step": 11,
+            "amount": [
+              137960
+            ]
+          },
+          {
+            "step": 12,
+            "amount": [
+              141352
+            ]
+          },
+          {
+            "step": 13,
+            "amount": [
+              144743
+            ]
+          },
+          {
+            "step": 14,
+            "amount": [
+              148136
+            ]
+          },
+          {
+            "step": 15,
+            "amount": [
+              151528
+            ]
+          },
+          {
+            "step": 16,
+            "amount": [
+              154922
+            ]
+          },
+          {
+            "step": 17,
+            "amount": [
+              158314
+            ]
+          },
+          {
+            "step": 18,
+            "amount": [
+              161704
+            ]
+          },
+          {
+            "step": 19,
+            "amount": [
+              165100
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "University Teaching",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ut.html"
+    },
+    "payType": "annual"
+  }
+]

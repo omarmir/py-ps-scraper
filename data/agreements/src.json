@@ -1,0 +1,188 @@
+[
+  {
+    "grpLvl": "SR-CPS1",
+    "group": "SR",
+    "level": "CPS1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              94490
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              98271
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              103182
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              108343
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              99019
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              102981
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              108128
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              113537
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              102500
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              106600
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              111929
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              117528
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              104811
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              109004
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              114453
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              120179
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              106907
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              111184
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              116742
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              122583
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-04-22",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              106907
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              111184
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              116742
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              123105
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (All Chargehand and Production Supervisor Employees Located on the East Coast)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/src.html"
+    },
+    "payType": "annual"
+  }
+]

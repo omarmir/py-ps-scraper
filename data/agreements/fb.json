@@ -1,0 +1,1378 @@
+[
+  {
+    "grpLvl": "FB-1",
+    "group": "FB",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              64849
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              67179
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              69591
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              72095
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              67958
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              70399
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              72927
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              75551
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              71957
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              74541
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              77218
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              79997
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              73579
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              76222
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              78959
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              81801
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              75051
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              77746
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              80538
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              83437
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Border Services",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/fb.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "FB-2",
+    "group": "FB",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              69423
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              71955
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              74579
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              77302
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              72751
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              75404
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              78154
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              81008
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              77032
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              79841
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              82753
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              85774
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              78769
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              81642
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              84619
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              87708
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              80344
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              83275
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              86311
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              89462
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Border Services",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/fb.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "FB-3",
+    "group": "FB",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              75100
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              79487
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              84137
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              89068
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              78701
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              83297
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              88171
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              93337
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              83332
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              88198
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              93359
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              98829
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              85211
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              90187
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              95464
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              101058
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              86915
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              91991
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              97373
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              103079
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Border Services",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/fb.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "FB-4",
+    "group": "FB",
+    "level": "4",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              81060
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              84106
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              87269
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              90552
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              93387
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              84946
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              88138
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              91452
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              94893
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              97864
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              89944
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              93324
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              96833
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              100477
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              103622
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              91972
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              95428
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              99017
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              102743
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              105958
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              93811
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              97337
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              100997
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              104798
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              108077
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Border Services",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/fb.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "FB-5",
+    "group": "FB",
+    "level": "5",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              88484
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              91862
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              95369
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              99010
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              101843
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              92726
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              96265
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              99941
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              103756
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              106726
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              98182
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              101929
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              105821
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              109861
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              113006
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              100396
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              104228
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              108207
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              112338
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              115554
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              102404
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              106313
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              110371
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              114585
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              117865
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Border Services",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/fb.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "FB-6",
+    "group": "FB",
+    "level": "6",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              97310
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              101078
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              104995
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              109066
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              111899
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              101975
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              105924
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              110028
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              114294
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              117263
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              107975
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              112157
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              116502
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              121019
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              124163
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              110410
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              114686
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              119129
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              123748
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              126963
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              112618
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              116980
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              121512
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              126223
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              129502
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Border Services",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/fb.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "FB-7",
+    "group": "FB",
+    "level": "7",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              107863
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              112101
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              116506
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              121091
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              123924
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              113033
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              117475
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              122091
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              126896
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              129864
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              119684
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              124387
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              129275
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              134363
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              137505
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              122383
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              127192
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              132191
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              137393
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              140606
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              124831
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              129736
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              134835
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              140141
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              143418
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Border Services",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/fb.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "FB-8",
+    "group": "FB",
+    "level": "8",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              120684
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              125431
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              130371
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              135509
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              126469
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              131444
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              136621
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              142005
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              133910
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              139178
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              144660
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              150360
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              136929
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              142317
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              147922
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              153750
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-06-21",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              139668
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              145163
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              150880
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              156825
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Border Services",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/fb.html"
+    },
+    "payType": "annual"
+  }
+]

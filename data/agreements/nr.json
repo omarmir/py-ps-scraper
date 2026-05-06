@@ -1,0 +1,5304 @@
+[
+  {
+    "grpLvl": "AR-1",
+    "group": "AR",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              43400,
+              64639
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              45480,
+              67737
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              47078,
+              70118
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              48140,
+              71699
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              49103,
+              73133
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Architecture, Engineering and Land Survey",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/nr.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "AR-2",
+    "group": "AR",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              68838
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              71606
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              74367
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              77118
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              79881
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              82641
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              72138
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              75038
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              77932
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              80815
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              83710
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              86602
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              74674
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              77675
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              80671
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              83655
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              86652
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              89646
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              76357
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              79427
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              82490
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              85541
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              88606
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              91668
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              77884
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              81016
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              84140
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              87252
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              90378
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              93501
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Architecture, Engineering and Land Survey",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/nr.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "AR-3",
+    "group": "AR",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              84469
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              87571
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              90658
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              93742
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              96223
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              98697
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              88518
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              91769
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              95004
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              98236
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              100836
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              103428
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              91630
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              94995
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              98343
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              101689
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              104380
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              107064
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              93697
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              97137
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              100561
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              103982
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              106734
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              109478
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              95571
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              99080
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              102572
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              106062
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              108869
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              111668
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Architecture, Engineering and Land Survey",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/nr.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "AR-4",
+    "group": "AR",
+    "level": "4",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              95851
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              99228
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              102604
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              105978
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              108767
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              111554
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              100446
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              103985
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              107522
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              111058
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              113981
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              116901
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              103976
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              107641
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              111302
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              114962
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              117987
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              121010
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              106321
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              110068
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              113812
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              117554
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              120648
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              123739
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              108447
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              112269
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              116088
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              119905
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              123061
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              126214
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Architecture, Engineering and Land Survey",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/nr.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "AR-5",
+    "group": "AR",
+    "level": "5",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              107614
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              111435
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              115255
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              119074
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              122206
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              125336
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              112772
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              116777
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              120780
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              124783
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              128064
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              131345
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              116736
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              120881
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              125025
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              129169
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              132566
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              135961
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              119369
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              123607
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              127845
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              132081
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              135555
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              139027
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              121756
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              126079
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              130402
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              134723
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              138266
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              141808
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Architecture, Engineering and Land Survey",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/nr.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "AR-6",
+    "group": "AR",
+    "level": "6",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              119395
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              123345
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              127298
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              131253
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              134718
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              138181
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              125119
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              129258
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              133400
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              137545
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              141176
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              144805
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              129517
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              133802
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              138089
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              142379
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              146138
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              149895
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              132437
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              136819
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              141203
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              145590
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              149434
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              153275
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              135086
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              139555
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              144027
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              148502
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              152423
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              156341
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Architecture, Engineering and Land Survey",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/nr.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "AR-7",
+    "group": "AR",
+    "level": "7",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              128822
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              133096
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              137391
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              141687
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              148831
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              155977
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              134998
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              139476
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              143978
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              148479
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              155966
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              163454
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              139743
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              144378
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              149038
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              153698
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              161448
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              169200
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              142894
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              147634
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              152399
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              157164
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              165089
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              173015
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              145752
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              150587
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              155447
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              160307
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              168391
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              176475
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Architecture, Engineering and Land Survey",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/nr.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "EN-ENG-1",
+    "group": "EN-ENG",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              56709,
+              66461
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              59428,
+              69647
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              61517,
+              72095
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              62904,
+              73721
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              64162,
+              75195
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Architecture, Engineering and Land Survey",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/nr.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "EN-ENG-2",
+    "group": "EN-ENG",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              72427
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              75166
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              77704
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              80246
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              82795
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              75899
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              78769
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              81429
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              84093
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              86764
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              78567
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              81538
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              84291
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              87049
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              89814
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              80338
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              83377
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              86192
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              89012
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              91839
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              81945
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              85045
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              87916
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              90792
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              93676
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Architecture, Engineering and Land Survey",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/nr.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "EN-ENG-3",
+    "group": "EN-ENG",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              88989
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              92187
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              95378
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              98561
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              101755
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              104941
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              108127
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              93255
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              96607
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              99950
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              103286
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              106632
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              109972
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              113310
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              96533
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              100003
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              103464
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              106917
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              110380
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              113837
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              117293
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              98710
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              102258
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              105797
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              109328
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              112869
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              116404
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              119938
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              100684
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              104303
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              107913
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              111515
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              115126
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              118732
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              122337
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Architecture, Engineering and Land Survey",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/nr.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "EN-ENG-4",
+    "group": "EN-ENG",
+    "level": "4",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              104135
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              107592
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              111060
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              114524
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              117987
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              121451
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              109127
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              112750
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              116384
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              120014
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              123643
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              127273
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              112963
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              116714
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              120475
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              124232
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              127989
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              131746
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              115510
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              119346
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              123192
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              127034
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              130875
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              134717
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              117820
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              121733
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              125656
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              129575
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              133493
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              137411
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Architecture, Engineering and Land Survey",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/nr.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "EN-ENG-5",
+    "group": "EN-ENG",
+    "level": "5",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              119286
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              123298
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              127330
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              131362
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              135403
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              139443
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              125004
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              129208
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              133434
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              137660
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              141894
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              146128
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              129398
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              133749
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              138124
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              142499
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              146882
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              151265
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              132316
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              136765
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              141238
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              145712
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              150195
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              154676
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              134962
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              139500
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              144063
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              148626
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              153199
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              157770
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Architecture, Engineering and Land Survey",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/nr.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "EN-ENG-6",
+    "group": "EN-ENG",
+    "level": "6",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              133058
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              137338
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              141629
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              145909
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              150194
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              154474
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              139436
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              143922
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              148418
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              152904
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              157394
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              161880
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              144337
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              148981
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              153635
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              158278
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              162927
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              167570
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              147592
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              152341
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              157100
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              161848
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              166601
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              171348
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              150544
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              155388
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              160242
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              165085
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              169933
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              174775
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Architecture, Engineering and Land Survey",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/nr.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "EN-SUR-06: : continued",
+    "group": "EN-SUR-06: : continued",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-10-01",
+        "rateStepsList": [
+          {
+            "step": 6,
+            "amount": [
+              147444
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              152421
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              156993
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              161703
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-10-01",
+        "rateStepsList": [
+          {
+            "step": 6,
+            "amount": [
+              154513
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              159728
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              164519
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              169455
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-10-01",
+        "rateStepsList": [
+          {
+            "step": 6,
+            "amount": [
+              159944
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              165343
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              170302
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              175412
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-10-01",
+        "rateStepsList": [
+          {
+            "step": 6,
+            "amount": [
+              163551
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              169072
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              174142
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              179367
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-10-01",
+        "rateStepsList": [
+          {
+            "step": 6,
+            "amount": [
+              166822
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              172453
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              177625
+            ]
+          },
+          {
+            "step": 9,
+            "amount": [
+              182954
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Architecture, Engineering and Land Survey",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/nr.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "EN-SUR-1",
+    "group": "EN-SUR",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              57491,
+              66803
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              70507
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              73145
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              75794
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              78618
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              81445
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              60247,
+              70005
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              73887
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              76651
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              79428
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              82387
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              85350
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              62364,
+              72466
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              76485
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              79346
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              82220
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              85283
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              88351
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              63770,
+              74100
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              78210
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              81135
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              84074
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              87206
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              90343
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              65045,
+              75582
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              79774
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              82758
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              85755
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              88950
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              92150
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Architecture, Engineering and Land Survey",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/nr.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "EN-SUR-2",
+    "group": "EN-SUR",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              88701
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              91896
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              95076
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              98255
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              101437
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              104615
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              107795
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              92954
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              96301
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              99634
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              102965
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              106299
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              109630
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              112963
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              96222
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              99686
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              103136
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              106584
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              110035
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              113484
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              116934
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              98391
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              101934
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              105462
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              108988
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              112517
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              116043
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              119571
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              100359
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              103973
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              107571
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              111168
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              114767
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              118364
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              121962
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Architecture, Engineering and Land Survey",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/nr.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "EN-SUR-3",
+    "group": "EN-SUR",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              97626
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              100181
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              102735
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              105292
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              107854
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              110413
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              115082
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              118535
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              102306
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              104983
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              107660
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              110339
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              113024
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              115705
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              120599
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              124218
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              105902
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              108673
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              111444
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              114217
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              116997
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              119772
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              124838
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              128585
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              108290
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              111123
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              113957
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              116792
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              119635
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              122472
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              127653
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              131485
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              110456
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              113345
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              116236
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              119128
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              122028
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              124921
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              130206
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              134115
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Architecture, Engineering and Land Survey",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/nr.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "EN-SUR-4",
+    "group": "EN-SUR",
+    "level": "4",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              108378
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              112268
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              115847
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              119428
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              123002
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              126579
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              130376
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              132332
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              113573
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              117649
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              121401
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              125153
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              128898
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              132647
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              136626
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              138676
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              117565
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              121784
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              125668
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              129553
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              133429
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              137309
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              141429
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              143550
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              120216
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              124531
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              128501
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              132474
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              136438
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              140405
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              144619
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              146787
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              122620
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              127022
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              131071
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              135123
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              139167
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              143213
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              147511
+            ]
+          },
+          {
+            "step": 8,
+            "amount": [
+              149723
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Architecture, Engineering and Land Survey",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/nr.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "EN-SUR-5",
+    "group": "EN-SUR",
+    "level": "5",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              121583
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              125726
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              129882
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              134043
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              138188
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              142342
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              146612
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              127411
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              131753
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              136108
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              140469
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              144813
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              149166
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              153640
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              131889
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              136385
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              140892
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              145406
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              149903
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              154409
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              159040
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              134863
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              139461
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              144069
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              148685
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              153283
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              157891
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              162627
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              137560
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              142250
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              146950
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              151659
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              156349
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              161049
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              165880
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Architecture, Engineering and Land Survey",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/nr.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "EN-SUR-6",
+    "group": "EN-SUR",
+    "level": "6",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              125846
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              130155
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              134478
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              138804
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              143124
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              131879
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              136394
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              140925
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              145458
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              149985
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              136514
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              141188
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              145879
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              150571
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              155257
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              139592
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              144372
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              149169
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              153966
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              158758
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              142384
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              147259
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              152152
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              157045
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              161933
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Architecture, Engineering and Land Survey",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/nr.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SPS-EE-1",
+    "group": "SPS-EE",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              56709,
+              66461
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              59428,
+              69647
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              61517,
+              72095
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              62904,
+              73721
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              64162,
+              75195
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Architecture, Engineering and Land Survey",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/nr.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SPS-EE-2",
+    "group": "SPS-EE",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              72427
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              75166
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              77704
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              80246
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              82795
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              75899
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              78769
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              81429
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              84093
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              86764
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              78567
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              81538
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              84291
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              87049
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              89814
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              80338
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              83377
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              86192
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              89012
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              91839
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              81945
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              85045
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              87916
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              90792
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              93676
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Architecture, Engineering and Land Survey",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/nr.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SPS-EE-3",
+    "group": "SPS-EE",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              88989
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              92187
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              95378
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              98561
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              101755
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              104941
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              108127
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              93255
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              96607
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              99950
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              103286
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              106632
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              109972
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              113310
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              96533
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              100003
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              103464
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              106917
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              110380
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              113837
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              117293
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              98710
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              102258
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              105797
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              109328
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              112869
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              116404
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              119938
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              100684
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              104303
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              107913
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              111515
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              115126
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              118732
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              122337
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Architecture, Engineering and Land Survey",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/nr.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SPS-EE-4",
+    "group": "SPS-EE",
+    "level": "4",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              104135
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              107592
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              111060
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              114524
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              117987
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              121451
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              109127
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              112750
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              116384
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              120014
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              123643
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              127273
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              112963
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              116714
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              120475
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              124232
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              127989
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              131746
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              115510
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              119346
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              123192
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              127034
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              130875
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              134717
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              117820
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              121733
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              125656
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              129575
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              133493
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              137411
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Architecture, Engineering and Land Survey",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/nr.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SPS-EE-5",
+    "group": "SPS-EE",
+    "level": "5",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              119286
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              123298
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              127330
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              131362
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              135403
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              139443
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              125004
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              129208
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              133434
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              137660
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              141894
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              146128
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              129398
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              133749
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              138124
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              142499
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              146882
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              151265
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              132316
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              136765
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              141238
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              145712
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              150195
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              154676
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              134962
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              139500
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              144063
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              148626
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              153199
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              157770
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Architecture, Engineering and Land Survey",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/nr.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "SPS-EE-6",
+    "group": "SPS-EE",
+    "level": "6",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2021-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              133058
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              137338
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              141629
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              145909
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              150194
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              154474
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2022-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              139436
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              143922
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              148418
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              152904
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              157394
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              161880
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              144337
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              148981
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              153635
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              158278
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              162927
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              167570
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              147592
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              152341
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              157100
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              161848
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              166601
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              171348
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-10-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              150544
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              155388
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              160242
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              165085
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              169933
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              174775
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Architecture, Engineering and Land Survey",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/nr.html"
+    },
+    "payType": "annual"
+  }
+]

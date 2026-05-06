@@ -1,0 +1,2117 @@
+[
+  {
+    "grpLvl": "CAI-1",
+    "group": "CAI",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              99984
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              102648
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              105378
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              108195
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              111086
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              104777
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              107569
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              110429
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              113382
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              116411
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              108460
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              111350
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              114311
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              117367
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              120503
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              110906
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              113861
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              116888
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              120013
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              123220
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2026-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              113124
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              116138
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              119226
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              122413
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              125684
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Aircraft Operations",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ao.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "CAI-2",
+    "group": "CAI",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              106851
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              109707
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              112648
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              115665
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              118771
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              121964
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              111973
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              114966
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              118048
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              121209
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              124465
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              127811
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              131326
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              115909
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              119007
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              122197
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              125469
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              128840
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              132303
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              135941
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              118523
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              121690
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              124953
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              128298
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              131746
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              135286
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              139006
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2026-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              120893
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              124124
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              127452
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              130864
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              134381
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              137992
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              141787
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Aircraft Operations",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ao.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "CAI-3",
+    "group": "CAI",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              113880
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              116936
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              120077
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              123311
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              126635
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              130055
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              133570
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              119339
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              122542
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              125834
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              129222
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              132705
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              136290
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              139973
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              123534
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              126849
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              130257
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              133764
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              137369
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              141081
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              144893
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              126320
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              129709
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              133194
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              136780
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              140466
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              144263
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              148160
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2026-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              128846
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              132303
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              135858
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              139516
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              143275
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              147148
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              151123
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Aircraft Operations",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ao.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "CAI-4",
+    "group": "CAI",
+    "level": "4",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              120741
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              123997
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              127338
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              130774
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              134312
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              137945
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              141688
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              126529
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              129941
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              133442
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              137043
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              140751
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              144558
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              148480
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              130977
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              134508
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              138132
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              141860
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              145699
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              149639
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              153699
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              133931
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              137541
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              141247
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              145059
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              148985
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              153014
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              157165
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2026-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              136610
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              140292
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              144072
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              147960
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              151965
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              156074
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              160308
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Aircraft Operations",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ao.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "CAI-5",
+    "group": "CAI",
+    "level": "5",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              129866
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              133372
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              136988
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              140707
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              144524
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              148453
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              152489
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              136091
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              139766
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              143555
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              147452
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              151452
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              155570
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              159799
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              140875
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              144679
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              148601
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              152635
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              156776
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              161038
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              165416
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              144052
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              147942
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              151952
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              156077
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              160312
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              164670
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              169146
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2026-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              146933
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              150901
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              154991
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              159199
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              163518
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              167963
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              172529
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Aircraft Operations",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ao.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "ETP-1",
+    "group": "ETP",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              140252
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              144056
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              147973
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              151971
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              156113
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              160378
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              146976
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              150962
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              155066
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              159256
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              163597
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              168066
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              172688
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              152142
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              156268
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              160517
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              164854
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              169348
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              173974
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              178758
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              155573
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              159791
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              164136
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              168571
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              173167
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              177897
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              182789
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2026-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              158684
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              162987
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              167419
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              171942
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              176630
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              181455
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              186445
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Aircraft Operations",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ao.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "HPS-1",
+    "group": "HPS",
+    "level": "1",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              109592
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              111988
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              115066
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              118147
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              121322
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              114846
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              117357
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              120582
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              123811
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              127138
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              130634
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              134227
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              118882
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              121482
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              124820
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              128163
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              131607
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              135226
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              138945
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              121563
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              124222
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              127634
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              131053
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              134575
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              138276
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              142078
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2026-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              123994
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              126706
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              130187
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              133674
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              137267
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              141042
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              144920
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Aircraft Operations",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ao.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "HPS-2",
+    "group": "HPS",
+    "level": "2",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              114297
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              117175
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              120456
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              123737
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              127073
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              119776
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              122792
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              126230
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              129669
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              133165
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              136827
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              140590
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              123986
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              127108
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              130667
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              134227
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              137846
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              141637
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              145532
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              126782
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              129974
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              133613
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              137254
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              140955
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              144831
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              148814
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2026-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              129318
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              132573
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              136285
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              139999
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              143774
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              147728
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              151790
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Aircraft Operations",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ao.html"
+    },
+    "payType": "annual"
+  },
+  {
+    "grpLvl": "HPS-3",
+    "group": "HPS",
+    "level": "3",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              120253
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              124175
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              127956
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              131863
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              135430
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              126018
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              130128
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              134089
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              138184
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              141922
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              145825
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              149835
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              130448
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              134702
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              138803
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              143042
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              146911
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              150951
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              155102
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              133390
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              137739
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              141933
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              146268
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              150224
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              154355
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              158600
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2026-01-26",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              136058
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              140494
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              144772
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              149193
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              153228
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              157442
+            ]
+          },
+          {
+            "step": 7,
+            "amount": [
+              161771
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Aircraft Operations",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/ao.html"
+    },
+    "payType": "annual"
+  }
+]

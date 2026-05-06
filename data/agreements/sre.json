@@ -1,0 +1,1344 @@
+[
+  {
+    "grpLvl": "APB Apprentices 3 years (3)",
+    "group": "APB Apprentices 3 years (3)",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              27.52
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              29.54
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              31.5
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              33.46
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              35.41
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              37.42
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              28.84
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              30.95
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              33.01
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              35.06
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              37.11
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              39.21
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              29.86
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              32.04
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              34.17
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              36.29
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              38.41
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              40.59
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              30.54
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              32.76
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              34.94
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              37.11
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              39.28
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              41.5
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2026-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              31.15
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              33.42
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              35.64
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              37.85
+            ]
+          },
+          {
+            "step": 5,
+            "amount": [
+              40.07
+            ]
+          },
+          {
+            "step": 6,
+            "amount": [
+              42.33
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (East)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/sre.html"
+    }
+  },
+  {
+    "grpLvl": "Apprentices Period (3) APA Apprentices 2 years (3)",
+    "group": "Apprentices Period (3) APA Apprentices 2 years (3)",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              31.5
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              33.46
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              35.41
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              37.42
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              33.01
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              35.06
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              37.11
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              39.21
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              34.17
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              36.29
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              38.41
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              40.59
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              34.94
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              37.11
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              39.28
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              41.5
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2026-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              35.64
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              37.85
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              40.07
+            ]
+          },
+          {
+            "step": 4,
+            "amount": [
+              42.33
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (East)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/sre.html"
+    }
+  },
+  {
+    "grpLvl": "Pay Group 1 Leadhand@basic_hourly",
+    "group": "Pay Group 1 Leadhand",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              1.97
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              2.07
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              2.14
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              2.19
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2026-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              2.23
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (East)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/sre.html"
+    },
+    "payType": "basic_hourly"
+  },
+  {
+    "grpLvl": "Pay Group 10 MAN-8 Combination Welder (HP) (1)@basic_hourly",
+    "group": "Pay Group 10 MAN-8 Combination Welder (HP) (1)",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              41.58
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              43.24
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              45.01
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              43.58
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              45.31
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              47.17
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              45.11
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              46.9
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              48.83
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              46.13
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              47.96
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              49.93
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2026-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              47.05
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              48.92
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              50.93
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (East)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/sre.html"
+    },
+    "payType": "basic_hourly"
+  },
+  {
+    "grpLvl": "Pay Group 11 MAC-11 Precision Tool & Die Maker QCW-11 Dimensional Inspection QCW-11 Quality Control@basic_hourly",
+    "group": "Pay Group 11 MAC-11 Precision Tool & Die Maker QCW-11 Dimensional Inspection QCW-11 Quality Control",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              42.21
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              43.91
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              45.71
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              44.24
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              46.02
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              47.9
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              45.8
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              47.64
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              49.59
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              46.84
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              48.71
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              50.71
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2026-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              47.78
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              49.68
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              51.72
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (East)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/sre.html"
+    },
+    "payType": "basic_hourly"
+  },
+  {
+    "grpLvl": "Pay Group 12 EEW-11 Electrical Systems Tech. PLE-10 Planner & Scheduler INM-11 Mech. Inst. Systems Tech. EEW-11 Electronic Systems Tech. (2)@basic_hourly",
+    "group": "Pay Group 12 EEW-11 Electrical Systems Tech. PLE-10 Planner & Scheduler INM-11 Mech. Inst. Systems Tech. EEW-11 Electronic Systems Tech. (2)",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              42.69
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              44.41
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              46.16
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2023-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              44.73
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              46.53
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              48.38
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2024-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              46.3
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              48.17
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              50.08
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2025-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              47.35
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              49.25
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              51.21
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2026-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              48.3
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              50.24
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              52.23
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (East)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/sre.html"
+    },
+    "payType": "basic_hourly"
+  },
+  {
+    "grpLvl": "Pay Group 1@basic_hourly",
+    "group": "Pay Group 1",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              30.12
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              31.33
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              32.6
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2026-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              34.07
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              35.47
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              36.88
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (East)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/sre.html"
+    },
+    "payType": "basic_hourly"
+  },
+  {
+    "grpLvl": "Pay Group 2 ELE-2 Trades Helper@basic_hourly",
+    "group": "Pay Group 2 ELE-2 Trades Helper",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              31.59
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              32.91
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              34.21
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2026-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              35.75
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              37.23
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              38.7
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (East)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/sre.html"
+    },
+    "payType": "basic_hourly"
+  },
+  {
+    "grpLvl": "Pay Group 3 MDO-4 Forklift Operator@basic_hourly",
+    "group": "Pay Group 3 MDO-4 Forklift Operator",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              33.46
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              34.8
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              36.17
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2026-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              37.85
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              39.38
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              40.94
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (East)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/sre.html"
+    },
+    "payType": "basic_hourly"
+  },
+  {
+    "grpLvl": "Pay Group 4 MDO-5 Stationary Engineer Hoisting Plant Operator (OEBI) and Forklift@basic_hourly",
+    "group": "Pay Group 4 MDO-5 Stationary Engineer Hoisting Plant Operator (OEBI) and Forklift",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              37.19
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              38.64
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              40.23
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2026-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              42.08
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              43.72
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              45.51
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (East)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/sre.html"
+    },
+    "payType": "basic_hourly"
+  },
+  {
+    "grpLvl": "Pay Group 5@basic_hourly",
+    "group": "Pay Group 5",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              38.26
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              39.8
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              41.36
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2026-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              43.3
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              45.01
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              46.8
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (East)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/sre.html"
+    },
+    "payType": "basic_hourly"
+  },
+  {
+    "grpLvl": "Pay Group 6 PRW-4 Sail and Canvas Worker MAN-6 Marine Insulator SPS-6 Chemical Treatment Technician SPS-6 Marine Treatment Finishing Specialist SPS-7 Metal Finisher Technician PRW-6 Marine Survival Technician MAN-7 Combination Welder MDO-6 Stationary Engineer: Hoisting Plant Operator PIP-8 Marine Pipefitter Coppersmith PRW-8 Rigging SMW-8 Sheet Metal Technician WOW-8 Shipwright BOB-9 Boiler & Plate Tech. MAC-9 Machinist MAM-9 Maintenance Mechanic (Refrig)@basic_hourly",
+    "group": "Pay Group 6 PRW-4 Sail and Canvas Worker MAN-6 Marine Insulator SPS-6 Chemical Treatment Technician SPS-6 Marine Treatment Finishing Specialist SPS-7 Metal Finisher Technician PRW-6 Marine Survival Technician MAN-7 Combination Welder MDO-6 Stationary Engineer: Hoisting Plant Operator PIP-8 Marine Pipefitter Coppersmith PRW-8 Rigging SMW-8 Sheet Metal Technician WOW-8 Shipwright BOB-9 Boiler & Plate Tech. MAC-9 Machinist MAM-9 Maintenance Mechanic (Refrig)",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.34
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              40.91
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              42.55
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2026-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              44.82
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              46.59
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              48.45
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (East)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/sre.html"
+    },
+    "payType": "basic_hourly"
+  },
+  {
+    "grpLvl": "Pay Group 7 EEW-10 Marine/Industrial Electrical Tech. EEW-10 Electronics Repairman EME-10 Marine Mechanic Tech. MAM-10 Maintenance Mechanic@basic_hourly",
+    "group": "Pay Group 7 EEW-10 Marine/Industrial Electrical Tech. EEW-10 Electronics Repairman EME-10 Marine Mechanic Tech. MAM-10 Maintenance Mechanic",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              39.77
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              41.33
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              43.0
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2026-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              45.29
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              47.06
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              48.96
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (East)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/sre.html"
+    },
+    "payType": "basic_hourly"
+  },
+  {
+    "grpLvl": "Pay Group 8@basic_hourly",
+    "group": "Pay Group 8",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.31
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              41.94
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              43.58
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2026-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              45.6
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              47.46
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              49.32
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (East)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/sre.html"
+    },
+    "payType": "basic_hourly"
+  },
+  {
+    "grpLvl": "Pay Group 9@basic_hourly",
+    "group": "Pay Group 9",
+    "level": "",
+    "rateAgreements": [
+      {
+        "effectiveDate": "2022-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              40.84
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              42.46
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              44.19
+            ]
+          }
+        ]
+      },
+      {
+        "effectiveDate": "2026-01-01",
+        "rateStepsList": [
+          {
+            "step": 1,
+            "amount": [
+              46.21
+            ]
+          },
+          {
+            "step": 2,
+            "amount": [
+              48.05
+            ]
+          },
+          {
+            "step": 3,
+            "amount": [
+              50.0
+            ]
+          }
+        ]
+      }
+    ],
+    "source": {
+      "agreement": "Ship Repair (East)",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/topics/pay/collective-agreements/sre.html"
+    },
+    "payType": "basic_hourly"
+  }
+]
